@@ -1,0 +1,17 @@
+python encoder_based_method.py \
+    --model-path="/home/csgrad/haichaup/Code/LLaVA/llava-v1.5-7b" \
+    --ref_img "data/CelebAMask-HQ/CelebA-HQ-img/1.jpg" \
+    --tgt_img "data/CelebAMask-HQ/CelebA-HQ-img/1.jpg" \
+    --load-8bit \
+    --output_dir="exp/"\
+    --logging_dir="exp/"\
+    --gradient_accumulation_steps=1 \
+    --mixed_precision="fp16" \
+    --num_train_steps=10000 \
+    --img_dir="data/CelebAMask-HQ/CelebA-HQ-img" \
+    --importance_weight=3.0 \
+    --infer_ref_img="yollava_dataset/oong/ref_img.png" \
+    --infer_query_img="yollava_dataset/oong/2.png" \
+    --checkpoint_path="checkpoint.ckpt" \
+    --question="Is <sks> in this photo?" \
+    --task="infer"
