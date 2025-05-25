@@ -205,8 +205,6 @@ def parse_arguments():
     parser.add_argument("--report_to", type=str, default="tensorboard")
     parser.add_argument("--model-path", type=str, default="facebook/opt-350m")
     parser.add_argument("--model-base", type=str, default=None)
-    parser.add_argument("--ref_img", type=str)
-    parser.add_argument("--tgt_img", type=str)
     parser.add_argument("--device", type=str, default="cuda")
     parser.add_argument("--conv-mode", type=str, default=None)
     parser.add_argument("--temperature", type=float, default=0.2)
@@ -214,7 +212,6 @@ def parse_arguments():
     parser.add_argument("--load-8bit", action="store_true")
     parser.add_argument("--load-4bit", action="store_true")
     parser.add_argument("--debug", action="store_true")
-    parser.add_argument("--prompt", type=str, required=True)
     parser.add_argument("--num_train_steps", type=int, default=200)
     parser.add_argument("--img_dir", type=str)
     parser.add_argument("--pos_ques", type=str, default="personalization_dataset/pos_question.txt")
@@ -558,7 +555,6 @@ def inference(args):
     query_img = query_img.to("cuda", dtype=torch.float16)
 
     prompt = conv.get_prompt()
-    print(prompt)
     input_ids = tokenizer_image_token(prompt,
                                       tokenizer,
                                       vocab_size)
