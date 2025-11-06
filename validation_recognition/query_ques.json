@@ -1,0 +1,3678 @@
+[
+    {
+        "ref_img": "validation_recognition/Billie/ref_img.png",
+        "query_img": "validation_recognition/Billie/query_img1.jpg",
+        "question": "What is <sks> wearing in this photo?",
+        "multiple_choice": {
+            "A": "shirt",
+            "B": "crop top",
+            "C": "hoodie"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Billie/ref_img.png",
+        "query_img": "validation_recognition/Billie/query_img1.jpg",
+        "question": "What the color of <sks>'s shirt in this photo?",
+        "multiple_choice":{
+            "A": "yellow",
+            "B": "brown",
+            "C": "white"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "ref_img": "validation_recognition/Billie/ref_img.png",
+        "query_img": "validation_recognition/Billie/query_img1.jpg",
+        "question": "Where is the position of <sks> in this photo?",
+        "multiple_choice": {
+            "A": "top-left",
+            "B": "top-right",
+            "C": "middle"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "ref_img": "validation_recognition/Billie/ref_img.png",
+        "query_img": "validation_recognition/Billie/query_img2.jpg",
+        "question": "What is the expression of <sks>?",
+        "multiple_choice":{
+            "A": "crying",
+            "B": "smiling",
+            "C": "worrying"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "ref_img": "validation_recognition/Billie/ref_img.png",
+        "query_img": "validation_recognition/Billie/query_img2.jpg",
+        "question": "Which is the following accessory <sks> wearing?",
+        "multiple_choice":{
+            "A": "necklace",
+            "B": "glass",
+            "C": "earrings"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Billie/ref_img.png",
+        "query_img": "validation_recognition/Billie/query_img3.jpg",
+        "question": "What is <sks> doing in this photo?",
+        "multiple_choice":{
+            "A": "crying",
+            "B": "laughing",
+            "C": "sticking out the tounge"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "ref_img": "validation_recognition/Billie/ref_img.png",
+        "query_img": "validation_recognition/Billie/query_img4.png",
+        "question": "What is <sks> wearing in this photo?",
+        "multiple_choice": {
+            "A": "shirt",
+            "B": "skirt",
+            "C": "crop top"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Billie/ref_img.png",
+        "query_img": "validation_recognition/Billie/query_img4.png",
+        "question": "What is the color of <sks>'s clothes?",
+        "multiple_choice":{
+            "A": "only black",
+            "B": "only white",
+            "C": "black and white"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "ref_img": "validation_recognition/Billie/ref_img.png",
+        "query_img": "validation_recognition/Billie/query_img4.png",
+        "question": "What is <sks> carrying in the hand?",
+        "multiple_choice": {
+            "A": "cell phone",
+            "B": "book",
+            "C": "tv remote"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Billie/ref_img.png",
+        "query_img": "validation_recognition/Billie/query_img4.png",
+        "question": "What is <sks> doing in this photo?",
+        "multiple_choice":{
+            "A": "taking selfie",
+            "B": "taking bath",
+            "C": "reading books"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Billie/ref_img.png",
+        "query_img": "validation_recognition/Billie/query_img5.jpg",
+        "question": "What is <sks>'s accessories in this photo?",
+        "multiple_choice":{
+            "A": "ring",
+            "B": "earrings",
+            "C": "necklace"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "ref_img": "validation_recognition/Billie/ref_img.png",
+        "query_img": "validation_recognition/Billie/query_img6.jpg",
+        "question": "What is <sks>'s facial expression?",
+        "multiple_choice":{
+            "A": "smiling",
+            "B": "sad",
+            "C": "angry"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Billie/ref_img.png",
+        "query_img": "validation_recognition/Billie/query_img6.jpg",
+        "question": "What is the color of <sks>'s clothes?",
+        "multiple_choice":{
+            "A": "yellow",
+            "B": "black",
+            "C": "pink"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "ref_img": "validation_recognition/Billie/ref_img.png",
+        "query_img": "validation_recognition/Billie/query_img7.jpg",
+        "question": "What is <sks> wearing in this photo?",
+        "multiple_choice": {
+            "A": "sweater",
+            "B": "cardigan",
+            "C": "T-shirt"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Billie/ref_img.png",
+        "query_img": "validation_recognition/Billie/query_img8.jpg",
+        "question": "What is <sks> doing?",
+        "multiple_choice": {
+            "A": "hugging friends",
+            "B": "watching TV",
+            "C": "knitting"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Billie/ref_img.png",
+        "query_img": "validation_recognition/Billie/query_img8.jpg",
+        "question": "What is <sks>'s facial expression?",
+        "multiple_choice":{
+            "A": "crying",
+            "B": "smiling",
+            "C": "grimace"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "ref_img": "validation_recognition/Billie/ref_img.png",
+        "query_img": "validation_recognition/Billie/query_img8.jpg",
+        "question": "What is the clothes color of the person to the left of <sks>?",
+        "multiple_choice":{
+            "A": "pink",
+            "B": "white",
+            "C": "black"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "ref_img": "validation_recognition/Billie/ref_img.png",
+        "query_img": "validation_recognition/Billie/query_img9.jpeg",
+        "question": "What is the clothes color of <sks>?",
+        "multiple_choice":{
+            "A": "red",
+            "B": "black",
+            "C": "white"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Andrew/ref_img.png",
+        "query_img": "validation_recognition/Andrew/query_img1.jpg",
+        "question": "What is <sks> wearing in this photo?",
+        "multiple_choice":{
+            "A": "shirt",
+            "B": "suit",
+            "C": "jacket"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Andrew/ref_img.png",
+        "query_img": "validation_recognition/Andrew/query_img1.jpg",
+        "question": "What is <sks>'s accessories in this photo?",
+        "multiple_choice":{
+            "A": "necklace",
+            "B": "glass",
+            "C": "tie"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "ref_img": "validation_recognition/Andrew/ref_img.png",
+        "query_img": "validation_recognition/Andrew/query_img1.jpg",
+        "question": "What is <sks> doing in this photo?",
+        "multiple_choice":{
+            "A": "sitting",
+            "B": "reading",
+            "C": "eating"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Andrew/ref_img.png",
+        "query_img": "validation_recognition/Andrew/query_img2.jpg",
+        "question": "Where is <sks>?",
+        "multiple_choice": {
+            "A": "coffee shop",
+            "B": "mountain",
+            "C": "city skyline"
+        },
+        "correct_answer":"C"
+    },
+    {
+        "ref_img": "validation_recognition/Andrew/ref_img.png",
+        "query_img": "validation_recognition/Andrew/query_img2.jpg",
+        "question": "What is <sks> wearing in this photo?",
+        "multiple_choice": {
+            "A": "jacket",
+            "B": "jeans",
+            "C": "suit and shirt"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "ref_img": "validation_recognition/Andrew/ref_img.png",
+        "query_img": "validation_recognition/Andrew/query_img2.jpg",
+        "question": "What is the color of <sks>'s shirt?",
+        "multiple_choice": {
+            "A": "black",
+            "B": "white",
+            "C": "yellow"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "ref_img": "validation_recognition/Andrew/ref_img.png",
+        "query_img": "validation_recognition/Andrew/query_img3.jpg",
+        "question": "What is <sks>'s facial expression?",
+        "multiple_choice":{
+            "A": "smiling",
+            "B": "sad"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Andrew/ref_img.png",
+        "query_img": "validation_recognition/Andrew/query_img4.jpeg",
+        "question": "Where is <sks> in the picture?",
+        "multiple_choice":{
+            "A": "second row, right column",
+            "B": "first row, right column",
+            "C": "second row, left column"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Andrew/ref_img.png",
+        "query_img": "validation_recognition/Andrew/query_img4.jpeg",
+        "question": "What is <sks> doing in this photo?",
+        "multiple_choice":{
+            "A": "eating",
+            "B": "reading",
+            "C": "cooking"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Andrew/ref_img.png",
+        "query_img": "validation_recognition/Andrew/query_img5.jpg",
+        "question": "Can you guess where <sks> is?",
+        "multiple_choice":{
+            "A": "lecture hall",
+            "B": "coffee shop",
+            "C": "street"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Andrew/ref_img.png",
+        "query_img": "validation_recognition/Andrew/query_img5.jpg",
+        "question": "Guess what is <sks> doing?",
+        "multiple_choice":{
+            "A": "teaching",
+            "B": "having a coffee",
+            "C": "chatting with a friend"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Andrew/ref_img.png",
+        "query_img": "validation_recognition/Andrew/query_img5.jpg",
+        "question": "What is behind <sks> in this photo?",
+        "multiple_choice": {
+            "A": "black board",
+            "B": "table",
+            "C": "chair"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Andrew/ref_img.png",
+        "query_img": "validation_recognition/Andrew/query_img5.jpg",
+        "question": "What is the color of <sks>'s clothes?",
+        "multiple_choice":{
+            "A": "red",
+            "B": "blue",
+            "C": "orange"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "ref_img": "validation_recognition/Avril/ref_img.png",
+        "query_img": "validation_recognition/Avril/query_img1.jpeg",
+        "question": "Which person is <sks>?",
+        "multiple_choice":{
+            "A": "left person",
+            "B": "right person"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Avril/ref_img.png",
+        "query_img":"validation_recognition/Avril/query_img1.jpeg",
+        "question": "What is <sks> wearing in this image?",
+        "multiple_choice":{
+            "A": "T-shirt",
+            "B": "dress",
+            "C": "jacket"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Avril/ref_img.png",
+        "query_img": "validation_recognition/Avril/query_img1.jpeg",
+        "question": "What is the color of <sks>'s clothes?",
+        "multiple_choice":{
+            "A": "red",
+            "B": "yellow",
+            "C": "black"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "ref_img": "validation_recognition/Avril/ref_img.png",
+        "query_img": "validation_recognition/Avril/query_img1.jpeg",
+        "question": "What is <sks>'s accessories in this photo?",
+        "multiple_choice":{
+            "A": "necklace",
+            "B": "sunglasses",
+            "C": "earrings"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Avril/ref_img.png",
+        "query_img": "validation_recognition/Avril/query_img1.jpeg",
+        "question": "Who is <sks> standing next to?",
+        "multiple_choice":{
+            "A": "a dog",
+            "B": "a man",
+            "C": "a woman"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Avril/ref_img.png",
+        "query_img": "validation_recognition/Avril/query_img1.jpeg",
+        "question": "What is the clothes color of the person standing with <sks>?",
+        "multiple_choice":{
+            "A": "black",
+            "B": "yellow",
+            "C": "white"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Avril/ref_img.png",
+        "query_img": "validation_recognition/Avril/query_img2.png",
+        "question": "What is behind <sks>?",
+        "multiple_choice": {
+            "A": "a bed",
+            "B": "a car",
+            "C": "a toilet"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Avril/ref_img.png",
+        "query_img": "validation_recognition/Avril/query_img2.png",
+        "question": "What is one of the following item <sks> wearing?",
+        "multiple_choice":{
+            "A": "a skirt",
+            "B": "a pant"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Avril/ref_img.png",
+        "query_img": "validation_recognition/Avril/query_img2.png",
+        "question": "What is the following accessories <sks> wearing?",
+        "multiple_choice":{
+            "A": "a tie",
+            "B": "necklace",
+            "C": "sunglass"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Avril/ref_img.png",
+        "query_img": "validation_recognition/Avril/query_img2.png",
+        "question": "What is the color of <sks>'s skirt?",
+        "multiple_choice":{
+            "A": "yellow",
+            "B": "red",
+            "C": "black"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "ref_img": "validation_recognition/Avril/ref_img.png",
+        "query_img": "validation_recognition/Avril/query_img3.jpg",
+        "question": "Is <sks> in this photo?",
+        "multiple_choice":{
+            "A": "Yes",
+            "B": "No"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Avril/ref_img.png",
+        "query_img": "validation_recognition/Avril/query_img3.jpg",
+        "question": "What is <sks> carrying?",
+        "multiple_choice":{
+            "A": "a guitar",
+            "B": "a phone",
+            "C": "a toy"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Avril/ref_img.png",
+        "query_img": "validation_recognition/Avril/query_img3.jpg",
+        "question": "What is <sks>'s special accessories in this photo?",
+        "multiple_choice":{
+            "A": "sunglass",
+            "B": "necklace",
+            "C": "normal glass"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Avril/ref_img.png",
+        "query_img": "validation_recognition/Avril/query_img3.jpg",
+        "question": "What is the color of <sks>'s clothes?",
+        "multiple_choice":{
+            "A": "red",
+            "B": "yellow",
+            "C": "black"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "ref_img": "validation_recognition/Avril/ref_img.png",
+        "query_img": "validation_recognition/Avril/query_img5.jpg",
+        "question": "Which of the following items is <sks> having in the left hand?",
+        "multiple_choice":{
+            "A": "rings",
+            "B": "cigarette",
+            "C": "a toy"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Avril/ref_img.png",
+        "query_img": "validation_recognition/Avril/query_img6.jpg",
+        "question": "What is <sks> carrying on the left hand?",
+        "multiple_choice":{
+            "A": "a yellow purse",
+            "B": "a red purse",
+            "C": "a black purse"
+        },
+        "correct_answer":"C"
+    },
+    {
+        "ref_img": "validation_recognition/Avril/ref_img.png",
+        "query_img": "validation_recognition/Avril/query_img6.jpg",
+        "question": "Where is <sks>?",
+        "multiple_choice":{
+            "A": "crowded street",
+            "B": "coffee shop",
+            "C": "theatre"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Avril/ref_img.png",
+        "query_img": "validation_recognition/Avril/query_img6.jpg",
+        "question": "What is <sks> wearing in this image?",
+        "multiple_choice": {
+            "A": "jacket",
+            "B": "T-shirt",
+            "C": "hoodie"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Avril/ref_img.png",
+        "query_img": "validation_recognition/Avril/query_img6.jpg",
+        "question": "What is <sks> wearing in the neck?",
+        "multiple_choice":{
+            "A": "necklace",
+            "B": "tie"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Caleb/ref_img.png",
+        "query_img": "validation_recognition/Caleb/query_img1.jpg",
+        "question": "What is <sks> wearing in this photo?",
+        "multiple_choice":{
+            "A": "white basketball uniform",
+            "B": "white suit",
+            "C": "red basketball uniform"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Caleb/ref_img.png",
+        "query_img": "validation_recognition/Caleb/query_img3.jpg",
+        "question": "What is the color of <sks>'s shirt?",
+        "multiple_choice": {
+            "A": "blue",
+            "B": "red",
+            "C": "green"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Caleb/ref_img.png",
+        "query_img": "validation_recognition/Caleb/query_img4.jpg",
+        "question": "Is <sks> in this photo?",
+        "multiple_choice":{
+            "A": "Yes",
+            "B": "No"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Caleb/ref_img.png",
+        "query_img": "validation_recognition/Caleb/query_img4.jpg",
+        "question": "Who is <sks> in this photo?",
+        "multiple_choice":{
+            "A": "left person",
+            "B": "right person"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Caleb/ref_img.png",
+        "query_img": "validation_recognition/Caleb/query_img4.jpg",
+        "question": "Which is the color of <sks>'s clothes?",
+        "multiple_choice":{
+            "A": "only red",
+            "B": "only white",
+            "C": "stripe"
+        },
+        "correct_answer":"C"
+    },
+    {
+        "ref_img": "validation_recognition/Caleb/ref_img.png",
+        "query_img": "validation_recognition/Caleb/query_img4.jpg",
+        "question": "Who is <sks> standing next to?",
+        "multiple_choice":{
+            "A": "a red hair girl",
+            "B": "a black hair girl",
+            "C": "a red hair boy"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Sadie_Sink/ref_img.png",
+        "query_img": "validation_recognition/Caleb/query_img4.jpg",
+        "question": "Is <sks> in this photo?",
+        "multiple_choice":{
+            "A": "Yes",
+            "B": "No"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Sadie_Sink/ref_img.png",
+        "query_img": "validation_recognition/Caleb/query_img4.jpg",
+        "question": "Where is <sks> in this photo?",
+        "multiple_choice":{
+            "A": "left person",
+            "B": "right person"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Sadie_Sink/ref_img.png",
+        "query_img": "validation_recognition/Caleb/query_img4.jpg",
+        "question": "What is <sks>'s facial expression?",
+        "multiple_choice":{
+            "A": "crying",
+            "B": "smiling",
+            "C": "neutral"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Caleb/ref_img.png",
+        "query_img": "validation_recognition/Caleb/query_img5.jpeg",
+        "question": "What is <sks> wearing in this image?",
+        "multiple_choice":{
+            "A": "superman suit",
+            "B": "spiderman suit",
+            "C": "batman suit"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Caleb/ref_img.png",
+        "query_img": "validation_recognition/Caleb/query_img7.jpg",
+        "question": "Which one is <sks> in this photo?",
+        "multiple_choice":{
+            "A": "the left person",
+            "B": "the right person"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Caleb/ref_img.png",
+        "query_img": "validation_recognition/Caleb/query_img7.jpg",
+        "question": "What is <sks>'s facial expression?",
+        "multiple_choice":{
+            "A": "crying",
+            "B": "smiling"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Sadie_Sink/ref_img.png",
+        "query_img": "validation_recognition/Caleb/query_img7.jpg",
+        "question": "Who is <sks> in this photo?",
+        "multiple_choice":{
+            "A": "the left person",
+            "B": "the right person"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Sadie_Sink/ref_img.png",
+        "query_img": "validation_recognition/Caleb/query_img7.jpg",
+        "question": "Who is <sks> standing next to?",
+        "multiple_choice":{
+            "A": "a black hair boy",
+            "B": "a red hair boy",
+            "C": "a red hair girl"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Caleb/ref_img.png",
+        "query_img": "validation_recognition/Caleb/query_img8.jpg",
+        "question": "Is <sks> in this photo?",
+        "multiple_choice":{
+            "A": "Yes",
+            "B": "No"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Caleb/ref_img.png",
+        "query_img": "validation_recognition/Caleb/query_img8.jpg",
+        "question": "Where is <sks> in this photo?",
+        "multiple_choice":{
+            "A": "left person",
+            "B": "right person"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Caleb/ref_img.png",
+        "query_img": "validation_recognition/Caleb/query_img8.jpg",
+        "question": "What is <sks> doing in this photo?",
+        "multiple_choice":{
+            "A": "sitting",
+            "B": "driving",
+            "C": "standing"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Caleb/ref_img.png",
+        "query_img": "validation_recognition/Caleb/query_img9.jpeg",
+        "question": "What is the position of <sks> in this photo?",
+        "multiple_choice":{
+            "A": "front",
+            "B": "back"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Matarazzo/ref_img.png",
+        "query_img": "validation_recognition/Caleb/query_img9.jpeg",
+        "question": "Is <sks> in this photo?",
+        "multiple_choice":{
+            "A": "Yes",
+            "B": "No"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Matarazzo/ref_img.png",
+        "query_img": "validation_recognition/Caleb/query_img9.jpeg",
+        "question": "What is the position of <sks> in this photo?",
+        "multiple_choice":{
+            "A": "front",
+            "B": "back"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Matarazzo/ref_img.png",
+        "query_img": "validation_recognition/Caleb/query_img9.jpeg",
+        "question": "What is <sks> wearing in this photo?",
+        "multiple_choice":{
+            "A": "T-shirt",
+            "B": "jacket",
+            "C": "hoodie"
+        },
+        "correct_answer":"C"
+    },
+    {
+        "ref_img": "validation_recognition/Caleb/ref_img.png",
+        "query_img": "validation_recognition/Caleb/query_img9.jpeg",
+        "question": "What is <sks> wearing in this photo?",
+        "multiple_choice":{
+            "A": "T-shirt",
+            "B": "jacket",
+            "C": "hoodie"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Carole_King/ref_img.png",
+        "query_img": "validation_recognition/Carole_King/query_img1.jpg",
+        "question": "What is the color of <sks>'s clothes?",
+        "multiple_choice": {
+            "A": "black",
+            "B": "white",
+            "C": "yellow"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Carole_King/ref_img.png",
+        "query_img": "validation_recognition/Carole_King/query_img1.jpg",
+        "question": "What is <sks> doing in this photo?",
+        "multiple_choice":{
+            "A": "playing piano",
+            "B": "dancing",
+            "C": "reading books"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Carole_King/ref_img.png",
+        "query_img": "validation_recognition/Carole_King/query_img2.jpg",
+        "question": "What is <sks> expression?",
+        "multiple_choice":{
+            "A": "surprising",
+            "B": "sad",
+            "C": "smiling"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Carole_King/ref_img.png",
+        "query_img": "validation_recognition/Carole_King/query_img3.jpg",
+        "question": "What is <sks> doing in this photo?",
+        "multiple_choice":{
+            "A": "shaking hand",
+            "B": "waving hand",
+            "C": "dancing"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Carole_King/ref_img.png",
+        "query_img": "validation_recognition/Carole_King/query_img4.jpg",
+        "question": "What is the color of <sks>'s clothes?",
+        "multiple_choice":{
+            "A": "black",
+            "B": "blue",
+            "C": "red"
+        },
+        "correct_answer":"C"
+    },
+    {
+        "ref_img": "validation_recognition/Carole_King/ref_img.png",
+        "query_img": "validation_recognition/Carole_King/query_img7.jpg",
+        "question": "Is <sks> in this photo?",
+        "multiple_choice":{
+            "A": "Yes",
+            "B": "No"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Carole_King/ref_img.png",
+        "query_img": "validation_recognition/Carole_King/query_img7.jpg",
+        "question": "Which person is <sks>?",
+        "multiple_choice":{
+            "A": "left person",
+            "B": "right person"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Carole_King/ref_img.png",
+        "query_img": "validation_recognition/Carole_King/query_img7.jpg",
+        "question": "What is <sks> carrying in the hand?",
+        "multiple_choice":{
+            "A": "book",
+            "B": "microphone",
+            "C": "picture"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Carole_King/ref_img.png",
+        "query_img": "validation_recognition/Carole_King/query_img7.jpg",
+        "question": "What is the color of <sks>'s clothes?",
+        "multiple_choice":{
+            "A": "black",
+            "B": "red",
+            "C": "blue"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Carole_King/ref_img.png",
+        "query_img": "validation_recognition/Carole_King/query_img8.jpg",
+        "question": "Which person is <sks>?",
+        "multiple_choice":{
+            "A": "left person",
+            "B": "right person"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Carole_King/ref_img.png",
+        "query_img": "validation_recognition/Carole_King/query_img8.jpg",
+        "question": "What is next to <sks>?",
+        "multiple_choice":{
+            "A": "a man",
+            "B": "a woman"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Carole_King/ref_img.png",
+        "query_img": "validation_recognition/Carole_King/query_img8.jpg",
+        "question": "What is the person next to <sks> carrying in the hand?",
+        "multiple_choice":{
+            "A": "a book",
+            "B": "a toy",
+            "C": "a guitar"
+        },
+        "correct_answer":"C"
+    },
+    {
+        "ref_img": "validation_recognition/Carole_King/ref_img.png",
+        "query_img": "validation_recognition/Carole_King/query_img9.jpg",
+        "question": "What is the accessories <sks> wearing?",
+        "multiple_choice":{
+            "A": "earrings",
+            "B": "glass",
+            "C": "tie"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Carole_King/ref_img.png",
+        "query_img": "validation_recognition/Carole_King/query_img9.jpg",
+        "question": "Which person is <sks>?",
+        "multiple_choice":{
+            "A": "left person",
+            "B": "right person"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Carole_King/ref_img.png",
+        "query_img": "validation_recognition/Carole_King/query_img9.jpg",
+        "question": "Who is <sks> standing next to?",
+        "multiple_choice":{
+            "A": "a young woman",
+            "B": "an old woman",
+            "C": "an old man"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "ref_img": "validation_recognition/Carole_King/ref_img.png",
+        "query_img": "validation_recognition/Carole_King/query_img9.jpg",
+        "question": "What is the clothes color of the person next to <sks>?",
+        "multiple_choice":{
+            "A": "white",
+            "B": "red",
+            "C": "black"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img":"validation_recognition/Chau/ref_img.png",
+        "query_img": "validation_recognition/Chau/query_img1.png",
+        "question": "What is <sks> doing in this photo?",
+        "multiple_choice":{
+            "A": "selfie",
+            "B": "eating",
+            "C": "dancing"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Chau/ref_img.png",
+        "query_img": "validation_recognition/Chau/query_img1.png",
+        "question": "What is <sks> wearing?",
+        "multiple_choice":{
+            "A": "jacket",
+            "B": "hoodie",
+            "C": "T-shirt"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Chau/ref_img.png",
+        "query_img": "validation_recognition/Chau/query_img2.png",
+        "question": "What is behind <sks> in this photo?",
+        "multiple_choice":{
+            "A": "a building",
+            "B": "a table",
+            "C": "a chair"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Chau/ref_img.png",
+        "query_img": "validation_recognition/Chau/query_img5.png",
+        "question": "Is <sks> in this photo?",
+        "multiple_choice": {
+            "A": "Yes",
+            "B": "No"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Chau/ref_img.png",
+        "query_img": "validation_recognition/Chau/query_img5.png",
+        "question": "Which person is <sks> in this photo?",
+        "multiple_choice": {
+            "A": "left person",
+            "B": "right person"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "ref_img": "validation_recognition/Chau/ref_img.png",
+        "query_img": "validation_recognition/Chau/query_img5.png",
+        "question": "What is behind <sks>?",
+        "multiple_choice":{
+            "A": "white board",
+            "B": "black board"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Chau/ref_img.png",
+        "query_img": "validation_recognition/Chau/query_img5.png",
+        "question": "What is <sks> wearing?",
+        "multiple_choice":{
+            "A": "white shirt",
+            "B": "black shirt",
+            "C": "blue shirt"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Dan_Brown/ref_img.png",
+        "query_img": "validation_recognition/Dan_Brown/query_img1.jpg",
+        "question": "What is <sks> wearing?",
+        "multiple_choice":{
+            "A": "a suit",
+            "B": "a suit and a shirt"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Dan_Brown/ref_img.png",
+        "query_img": "validation_recognition/Dan_Brown/query_img1.jpg",
+        "question": "What is the color of <sks> suit?",
+        "multiple_choice":{
+            "A": "brown",
+            "B": "black",
+            "C": "blue"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Dan_Brown/ref_img.png",
+        "query_img": "validation_recognition/Dan_Brown/query_img1.jpg",
+        "question": "What is <sks>'s accessories in this photo?",
+        "multiple_choice":{
+            "A": "tie",
+            "B": "waitsband",
+            "C": "earrings"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "ref_img": "validation_recognition/Dan_Brown/ref_img.png",
+        "query_img": "validation_recognition/Dan_Brown/query_img2.jpg",
+        "question": "Which person is <sks> in this photo?",
+        "multiple_choice":{
+            "A": "left person",
+            "B": "right person"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Dan_Brown/ref_img.png",
+        "query_img": "validation_recognition/Dan_Brown/query_img2.jpg",
+        "question": "What is <sks> wearing in this photo?",
+        "multiple_choice":{
+            "A": "a suit",
+            "B": "a jacket",
+            "C": "a T-shirt"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Dan_Brown/ref_img.png",
+        "query_img": "validation_recognition/Dan_Brown/query_img2.jpg",
+        "question": "Who is <sks> standing next to?",
+        "multiple_choice":{
+            "A": "a man",
+            "B": "a woman"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Dan_Brown/ref_img.png",
+        "query_img": "validation_recognition/Dan_Brown/query_img2.jpg",
+        "question": "What is the person next to <sks> wearing?",
+        "multiple_choice":{
+            "A": "red dress",
+            "B": "black dress",
+            "C": "blue dress"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Dan_Brown/ref_img.png",
+        "query_img": "validation_recognition/Dan_Brown/query_img2.jpg",
+        "question": "What is the hair color of person next to <sks>?",
+        "multiple_choice":{
+            "A": "black",
+            "B": "blonde",
+            "C": "red"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Dan_Brown/ref_img.png",
+        "query_img": "validation_recognition/Dan_Brown/query_img4.jpg",
+        "question": "What is <sks> wearing in this photo?",
+        "multiple_choice":{
+            "A": "T-shirt",
+            "B": "jacket",
+            "C": "sweater"
+        },
+        "correct_answer":"C"
+    },
+    {
+        "ref_img": "validation_recognition/Djokovic/ref_img.png",
+        "query_img": "validation_recognition/Djokovic/query_img1.png",
+        "question": "What is <sks> doing?",
+        "multiple_choice":{
+            "A": "holding trophy",
+            "B": "dancing",
+            "C": "watching TV"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Djokovic/ref_img.png",
+        "query_img": "validation_recognition/Djokovic/query_img1.png",
+        "question": "What is <sks> wearing?",
+        "multiple_choice":{
+            "A": "black jacket",
+            "B": "white suit",
+            "C": "white jacket"
+        },
+        "correct_answer":"C"
+    },
+    {
+        "ref_img": "validation_recognition/Djokovic/ref_img.png",
+        "query_img": "validation_recognition/Djokovic/query_img1.png",
+        "question": "What is <sks>'s accessories in this photo?",
+        "multiple_choice":{
+            "A": "a watch",
+            "B": "a phone",
+            "C": "sunglass"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Djokovic/ref_img.png",
+        "query_img": "validation_recognition/Djokovic/query_img2.jpg",
+        "question": "What is <sks> doing in this photo?",
+        "multiple_choice":{
+            "A":"holding trophy",
+            "B": "holding medal",
+            "C": "holding phone"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img":"validation_recognition/Djokovic/ref_img.png",
+        "query_img": "validation_recognition/Djokovic/query_img3.png",
+        "question": "What is the color of <sks> shirt?",
+        "multiple_choice":{
+            "A": "red",
+            "B": "blue",
+            "C": "yellow"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Djokovic/ref_img.png",
+        "query_img": "validation_recognition/Djokovic/query_img3.png",
+        "question": "What is <sks> emotion?",
+        "multiple_choice":{
+            "A": "sad",
+            "B": "happy",
+            "C": "angry"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Djokovic/ref_img.png",
+        "query_img": "validation_recognition/Djokovic/query_img4.jpg",
+        "question": "Who is <sks> in this photo?",
+        "multiple_choice":{
+            "A": "left person",
+            "B": "right person"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Djokovic/ref_img.png",
+        "query_img": "validation_recognition/Djokovic/query_img4.jpg",
+        "question": "What is the main color of <sks>'s clothes?",
+        "multiple_choice":{
+            "A": "red",
+            "B": "green",
+            "C": "blue"
+        },
+        "correct_answer":"C"
+    },
+    {
+        "ref_img": "validation_recognition/Djokovic/ref_img.png",
+        "query_img": "validation_recognition/Djokovic/query_img4.jpg",
+        "question": "What is the main color of the person next to <sks> clothes?",
+        "multiple_choice":{
+            "A": "red",
+            "B": "white",
+            "C": "yellow"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Djokovic/ref_img.png",
+        "query_img": "validation_recognition/Djokovic/query_img4.jpg",
+        "question": "The person who is wearing sunglass is:",
+        "multiple_choice":{
+            "A": "<sks>",
+            "B": "the person next to <sks>"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Djokovic/ref_img.png",
+        "query_img": "validation_recognition/Djokovic/query_img6.jpg",
+        "question": "Where is <sks> standing?",
+        "multiple_choice":{
+            "A": "tennis court",
+            "B": "stadium",
+            "C": "garage"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Djokovic/ref_img.png",
+        "query_img": "validation_recognition/Djokovic/query_img6.jpg",
+        "question": "Which person is <sks> in this photo?",
+        "multiple_choice":{
+            "A": "left person",
+            "B": "right person"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Djokovic/ref_img.png",
+        "query_img": "validation_recognition/Djokovic/query_img6.jpg",
+        "question": "What is <sks> wearing?",
+        "multiple_choice":{
+            "A": "jacket",
+            "B": "suit",
+            "C": "T-shirt"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img":"validation_recognition/Djokovic/ref_img.png",
+        "query_img": "validation_recognition/Djokovic/query_img6.jpg",
+        "question": "What is the person next to <sks> wearing?",
+        "multiple_choice":{
+            "A": "T-shirt",
+            "B": "jacket",
+            "C": "suit"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Djokovic/ref_img.png",
+        "query_img": "validation_recognition/Djokovic/query_img6.jpg",
+        "question": "What is the main clothes color of the person next to <sks>?",
+        "multiple_choice":{
+            "A": "red",
+            "B": "blue",
+            "C": "black"
+        },
+        "correct_answer":"C"
+    },
+    {
+        "ref_img": "validation_recognition/Djokovic/ref_img.png",
+        "query_img": "validation_recognition/Djokovic/query_img7.jpg",
+        "question": "Which person is <sks> in this photo?",
+        "multiple_choice":{
+            "A": "left most",
+            "B": "middle",
+            "C": "right most"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Djokovic/ref_img.png",
+        "query_img": "validation_recognition/Djokovic/query_img7.jpg",
+        "question": "What is <sks> wearing in this photo?",
+        "multiple_choice":{
+            "A": "T-shirt",
+            "B": "jacket"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Roger/ref_img.png",
+        "query_img": "validation_recognition/Djokovic/query_img7.jpg",
+        "question": "Is <sks> in this photo?",
+        "multiple_choice":{
+            "A": "Yes",
+            "B": "No"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Roger/ref_img.png",
+        "query_img": "validation_recognition/Djokovic/query_img7.jpg",
+        "question":"Can you guess where <sks> is?",
+        "multiple_choice":{
+            "A": "left most",
+            "B": "middle",
+            "C": "right most"
+        },
+        "correct_answer":"C"
+    },
+    {
+        "ref_img": "validation_recognition/Roger/ref_img.png",
+        "query_img": "validation_recognition/Djokovic/query_img7.jpg",
+        "question": "What is <sks> wearing in this image?",
+        "multiple_choice":{
+            "A": "jacket",
+            "B": "T-shirt"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img":"validation_recognition/Djokovic/ref_img.png",
+        "query_img":"validation_recognition/Djokovic/query_img8.jpg",
+        "question": "What is <sks> expression?",
+        "multiple_choice":{
+            "A": "smiling",
+            "B": "crying",
+            "C": "angry"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Djokovic/ref_img.png",
+        "query_img": "validation_recognition/Djokovic/query_img8.jpg",
+        "question": "What is <sks> holing in the hand?",
+        "multiple_choice":{
+            "A": "fruit",
+            "B": "book",
+            "C": "phone"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img":"validation_recognition/Djokovic/ref_img.png",
+        "query_img": "validation_recognition/Djokovic/query_img8.jpg",
+        "question": "What is the color of <sks>'s jacket?",
+        "multiple_choice":{
+            "A": "blue",
+            "B": "black",
+            "C": "red"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Djokovic/ref_img.png",
+        "query_img": "validation_recognition/Djokovic/query_img9.png",
+        "question": "Which person is <sks> in this photo?",
+        "multiple_choice":{
+            "A": "left person",
+            "B": "right person"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img":"validation_recognition/Djokovic/ref_img.png",
+        "query_img": "validation_recognition/Djokovic/query_img9.png",
+        "question": "What is <sks> wearing?",
+        "multiple_choice":{
+            "A": "black suit",
+            "B": "black T-shirt",
+            "C": "red suit"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Djokovic/ref_img.png",
+        "query_img": "validation_recognition/Djokovic/query_img10.jpg",
+        "question": "Which person is <sks>?",
+        "multiple_choice":{
+            "A": "left most",
+            "B": "middle",
+            "C": "right most"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Doermann/ref_img.png",
+        "query_img": "validation_recognition/Doermann/query_img1.png",
+        "question": "What is <sks> doing in this photo?",
+        "multiple_choice":{
+            "A": "sitting",
+            "B": "standing",
+            "C": "reading"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Doermann/ref_img.png",
+        "query_img": "validation_recognition/Doermann/query_img1.png",
+        "question": "What is the color of <sks>'s suit?",
+        "multiple_choice":{
+            "A": "red",
+            "B": "black"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Drake/ref_img.png",
+        "query_img":"validation_recognition/Drake/query_img1.png",
+        "question": "What is <sks> carrying in the hand?",
+        "multiple_choice":{
+            "A": "trophy",
+            "B": "book",
+            "C": "phone"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Drake/ref_img.png",
+        "query_img": "validation_recognition/Drake/query_img1.png",
+        "question": "What is <sks>'s accessories in this photo?",
+        "multiple_choice":{
+            "A": "sunglass",
+            "B": "necklace",
+            "C": "tie"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Drake/ref_img.png",
+        "query_img":"validation_recognition/Drake/query_img1.png",
+        "question": "What is <sks> wearing in this photo?",
+        "multiple_choice":{
+            "A": "black suit",
+            "B": "yellow suit",
+            "C": "red suit"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Drake/ref_img.png",
+        "query_img": "validation_recognition/Drake/query_img2.png",
+        "question": "Which person is <sks> in this photo?",
+        "multiple_choice":{
+            "A": "left person",
+            "B": "right person"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img":"validation_recognition/Drake/ref_img.png",
+        "query_img": "validation_recognition/Drake/query_img2.png",
+        "question": "What is the person next to <sks> wearing?",
+        "multiple_choice":{
+            "A": "T-shirt",
+            "B": "suit",
+            "C": "jacket"
+        },
+        "correct_answer":"C"
+    },
+    {
+        "ref_img":"validation_recognition/Drake/ref_img.png",
+        "query_img": "validation_recognition/Drake/query_img3.jpg",
+        "question": "Which person is <sks> in this photo?",
+        "multiple_choice":{
+            "A": "left person",
+            "B": "right person"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Drake/ref_img.png",
+        "query_img":"validation_recognition/Drake/query_img3.jpg",
+        "question": "What is <sks> doing in this photo?",
+        "multiple_choice":{
+            "A": "sitting and explain",
+            "B": "reading",
+            "C": "crying"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img":"validation_recognition/Drake/ref_img.png",
+        "query_img": "validation_recognition/Drake/query_img3.jpg",
+        "question": "What is <sks> wearing in this photo?",
+        "multiple_choice":{
+            "A": "black T-shirt",
+            "B": "black jacket",
+            "C": "black hoodie"
+        },
+        "correct_answer":"C"
+    },
+    {
+        "ref_img": "validation_recognition/Emma_Stone/ref_img.png",
+        "query_img": "validation_recognition/Emma_Stone/query_img1.png",
+        "question": "Which person is <sks> in this photo?",
+        "multiple_choice":{
+            "A": "left person",
+            "B": "right person"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img":"validation_recognition/Emma_Stone/ref_img.png",
+        "query_img":"validation_recognition/Emma_Stone/query_img1.png",
+        "question": "What is <sks> wearing in this photo?",
+        "multiple_choice":{
+            "A": "white dress",
+            "B": "pink dress",
+            "C": "blue dress"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Emma_Stone/ref_img.png",
+        "query_img": "validation_recognition/Emma_Stone/query_img1.png",
+        "question": "What is <sks> carrying in the hand?",
+        "multiple_choice":{
+            "A": "a purse",
+            "B": "a phone",
+            "C": "a book"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Emma_Stone/ref_img.png",
+        "query_img": "validation_recognition/Emma_Stone/query_img1.png",
+        "question": "What is the person next to <sks> wearing?",
+        "multiple_choice":{
+            "A": "white shirt",
+            "B": "red shirt",
+            "C": "yellow shirt"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Emma_Stone/ref_img.png",
+        "query_img": "validation_recognition/Emma_Stone/query_img1.png",
+        "question": "Who is taller?",
+        "multiple_choice":{
+            "A": "<sks>",
+            "B": "the person next to <sks>"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Emma_Stone/ref_img.png",
+        "query_img": "validation_recognition/Emma_Stone/query_img2.jpg",
+        "question": "Who is <sks> in this photo?",
+        "multiple_choice":{
+            "A": "left person",
+            "B": "right person"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Emma_Stone/ref_img.png",
+        "query_img": "validation_recognition/Emma_Stone/query_img2.jpg",
+        "question":"What is <sks> wearing in this photo?",
+        "multiple_choice":{
+            "A": "yellow dress",
+            "B": "red dress",
+            "C": "black suit"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Emma_Stone/ref_img.png",
+        "query_img": "validation_recognition/Emma_Stone/query_img2.jpg",
+        "question": "What is the person next to <sks> wearing?",
+        "multiple_choice":{
+            "A": "yellow dress",
+            "B": "red dress",
+            "C": "black suit"
+        },
+        "correct_answer":"C"
+    },
+    {
+        "ref_img": "validation_recognition/Emma_Stone/ref_img.png",
+        "query_img": "validation_recognition/Emma_Stone/query_img2.jpg",
+        "question": "What is the person next to <sks> special accessories?",
+        "multiple_choice":{
+            "A": "a tie",
+            "B": "a clock",
+            "C": "sunglass"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Emma_Stone/ref_img.png",
+        "query_img": "validation_recognition/Emma_Stone/query_img2.jpg",
+        "question": "Between <sks> and the next person, who is taller?",
+        "multiple_choice":{
+            "A": "<sks>",
+            "B": "next person"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Emma_Stone/ref_img.png",
+        "query_img": "validation_recognition/Emma_Stone/query_img4.jpg",
+        "question": "What is <sks> wearing in this photo?",
+        "multiple_choice":{
+            "A": "a green dress",
+            "B": "a red dress",
+            "C": "a black dress"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Emma_Stone/ref_img.png",
+        "query_img": "validation_recognition/Emma_Stone/query_img4.jpg",
+        "question": "Is <sks> wearing earrings?",
+        "multiple_choice":{
+            "A": "Yes",
+            "B": "No"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Emma_Stone/ref_img.png",
+        "query_img": "validation_recognition/Emma_Stone/query_img4.jpg",
+        "question": "Is <sks> wearing a watch?",
+        "multiple_choice":{
+            "A": "Yes",
+            "B": "No"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Emma_Stone/ref_img.png",
+        "query_img": "validation_recognition/Emma_Stone/query_img4.jpg",
+        "question": "Is <sks> wearing rings in her hands?",
+        "multiple_choice":{
+            "A": "Yes",
+            "B": "No"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Emma_Stone/ref_img.png",
+        "query_img": "validation_recognition/Emma_Stone/query_img5.jpg",
+        "question": "What is <sks> wearing in this photo?",
+        "multiple_choice":{
+            "A": "blue dress",
+            "B": "yellow dress",
+            "C": "red dress"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Emma_Stone/ref_img.png",
+        "query_img": "validation_recognition/Emma_Stone/query_img6.jpg",
+        "question": "Which person is <sks>?",
+        "multiple_choice":{
+            "A": "left person",
+            "B": "right person"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Emma_Stone/ref_img.png",
+        "query_img": "validation_recognition/Emma_Stone/query_img6.jpg",
+        "question": "What is <sks> wearing in this image?",
+        "multiple_choice":{
+            "A": "white shirt",
+            "B": "red shirt",
+            "C": "white skirt"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Emma_Stone/ref_img.png",
+        "query_img": "validation_recognition/Emma_Stone/query_img6.jpg",
+        "question": "Between <sks> and the person next to <sks>, who is taller?",
+        "multiple_choice":{
+            "A": "<sks>",
+            "B": "the person next to <sks>"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Emma_Stone/ref_img.png",
+        "query_img": "validation_recognition/Emma_Stone/query_img6.jpg",
+        "question": "Where is <sks>?",
+        "multiple_choice":{
+            "A": "on the street",
+            "B": "in the kitchen",
+            "C": "in the theatre"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Emma_Stone/ref_img.png",
+        "query_img": "validation_recognition/Emma_Stone/query_img7.jpg",
+        "question": "What is <sks> wearing?",
+        "multiple_choice":{
+            "A": "yellow dress",
+            "B": "red dress",
+            "C": "blue dress"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Gilmour/ref_img.png",
+        "query_img":"validation_recognition/Gilmour/query_img1.jpg",
+        "question": "What is <sks> wearing in this photo?",
+        "multiple_choice":{
+            "A": "blue shirt",
+            "B": "yellow shirt",
+            "C": "red shirt"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Gilmour/ref_img.png",
+        "query_img": "validation_recognition/Gilmour/query_img1.jpg",
+        "question": "What is <sks> doing in this photo?",
+        "multiple_choice":{
+            "A": "reading book",
+            "B": "watching TV",
+            "C": "playing guitar"
+        },
+        "correct_answer":"C"
+    },
+    {
+        "ref_img": "validation_recognition/Gilmour/ref_img.png",
+        "query_img": "validation_recognition/Gilmour/query_img2.jpg",
+        "question": "What is <sks> doing in this photo?",
+        "multiple_choice":{
+            "A": "reading book",
+            "B": "watching TV",
+            "C": "playing guitar"
+        },
+        "correct_answer":"C"
+    },
+    {
+        "ref_img": "validation_recognition/Gilmour/ref_img.png",
+        "query_img": "validation_recognition/Gilmour/query_img3.jpg",
+        "question": "What is <sks> wearing?",
+        "multiple_choice":{
+            "A":"black shirt",
+            "B": "yellow shirt",
+            "C": "white shirt"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Gilmour/ref_img.png",
+        "query_img": "validation_recognition/Gilmour/query_img3.jpg",
+        "question": "What is <sks> carrying in this photo?",
+        "multiple_choice":{
+            "A": "a guitar",
+            "B": "a book",
+            "C": "a phone"
+        },
+        "correct_answer":"C"
+    },
+    {
+        "ref_img": "validation_recognition/Gilmour/ref_img.png",
+        "query_img": "validation_recognition/Gilmour/query_img3.jpg",
+        "question": "Is <sks> wearing a watch?",
+        "multiple_choice":{
+            "A": "Yes",
+            "B": "No"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Gilmour/ref_img.png",
+        "query_img": "validation_recognition/Gilmour/query_img3.jpg",
+        "question": "Is <sks> wearing a hat?",
+        "multiple_choice":{
+            "A": "Yes",
+            "B": "No"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Gilmour/ref_img.png",
+        "query_img": "validation_recognition/Gilmour/query_img3.jpg",
+        "question": "Is <sks> wearing a ring in the hand?",
+        "multiple_choice":{
+            "A": "Yes",
+            "B": "No"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Harbour/ref_img.png",
+        "query_img": "validation_recognition/Harbour/query_img1.jpg",
+        "question": "Who is <sks> in this photo?",
+        "multiple_choice":{
+            "A": "left person",
+            "B": "right person"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Harbour/ref_img.png",
+        "query_img": "validation_recognition/Harbour/query_img1.jpg",
+        "question": "What is <sks> wearing in this photo?",
+        "multiple_choice":{
+            "A": "black suit and white shirt",
+            "B": "white suit and black shirt",
+            "C": "blue suit"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Harbour/ref_img.png",
+        "query_img": "validation_recognition/Harbour/query_img1.jpg",
+        "question": "What is the person next to <sks> wearing?",
+        "multiple_choice":{
+            "A": "a suit",
+            "B": "a red dress",
+            "C": "a blue dress"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Harbour/ref_img.png",
+        "query_img": "validation_recognition/Harbour/query_img1.jpg",
+        "question": "What is the person next to <sks> special accessories?",
+        "multiple_choice":{
+            "A": "earrings",
+            "B": "sunglasses",
+            "C": "necklace"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Harbour/ref_img.png",
+        "query_img": "validation_recognition/Harbour/query_img2.jpg",
+        "question": "What is <sks>'s special accessories in this photo?",
+        "multiple_choice":{
+            "A": "sunglass",
+            "B": "a hat",
+            "C": "necklace"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Harbour/ref_img.png",
+        "query_img": "validation_recognition/Harbour/query_img5.jpg",
+        "question": "What is <sks> wearing in this photo?",
+        "multiple_choice":{
+            "A": "a suit",
+            "B": "police office outfit",
+            "C": "a T-shirt"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Harbour/ref_img.png",
+        "query_img": "validation_recognition/Harbour/query_img5.jpg",
+        "question": "Can you guess where <sks> is?",
+        "multiple_choice":{
+            "A": "a kitchen",
+            "B": "a coffee shop",
+            "C": "a bar"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Harbour/ref_img.png",
+        "query_img": "validation_recognition/Harbour/query_img5.jpg",
+        "question": "What is <sks> holding in the arm?",
+        "multiple_choice":{
+            "A": "telephone",
+            "B": "a bowl and spoon",
+            "C": "a book"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Harbour/ref_img.png",
+        "query_img": "validation_recognition/Harbour/query_img5.jpg",
+        "question": "Guess what is <sks> doing?",
+        "multiple_choice":{
+            "A": "make a phone call",
+            "B": "eating",
+            "C": "reading books"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Harbour/ref_img.png",
+        "query_img": "validation_recognition/Harbour/query_img3.jpg",
+        "question": "What is the color of <sks>'s clothes?",
+        "multiple_choice":{
+            "A": "pink",
+            "B": "yellow",
+            "C": "black"
+        },
+        "correct_answer":"C"
+    },
+    {
+        "ref_img": "validation_recognition/Harbour/ref_img.png",
+        "query_img": "validation_recognition/Harbour/query_img6.jpg",
+        "question": "Is <sks> wearing shoes in this photo?",
+        "multiple_choice":{
+            "A": "Yes",
+            "B": "No"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Harbour/ref_img.png",
+        "query_img": "validation_recognition/Harbour/query_img6.jpg",
+        "question": "Can you guess where <sks> is?",
+        "multiple_choice":{
+            "A": "bedroom",
+            "B": "bathroom",
+            "C": "on street"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Harbour/ref_img.png",
+        "query_img": "validation_recognition/Harbour/query_img6.jpg",
+        "question":"What is <sks> doing in this photo?",
+        "multiple_choice":{
+            "A": "iron clothes",
+            "B": "taking shower",
+            "C": "dancing"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Harbour/ref_img.png",
+        "query_img": "validation_recognition/Harbour/query_img7.jpg",
+        "question": "What is the color of <sks>'s suit?",
+        "multiple_choice":{
+            "A": "white",
+            "B": "black",
+            "C": "red"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Harbour/ref_img.png",
+        "query_img": "validation_recognition/Harbour/query_img7.jpg",
+        "question": "What is the color of the inside shirt?",
+        "multiple_choice":{
+            "A": "white",
+            "B": "black"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Harbour/ref_img.png",
+        "query_img": "validation_recognition/Harbour/query_img8.jpg",
+        "question": "Which person is <sks> in this photo?",
+        "multiple_choice":{
+            "A": "left most",
+            "B": "middle",
+            "C": "right most"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Harbour/ref_img.png",
+        "query_img": "validation_recognition/Harbour/query_img8.jpg",
+        "question": "Who is tallest in this photo?",
+        "multiple_choice":{
+            "A":"<sks>",
+            "B": "the left girl",
+            "C": "the right girl"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Harbour/ref_img.png",
+        "query_img": "validation_recognition/Harbour/query_img9.jpg",
+        "question": "Which person is <sks> in this photo?",
+        "multiple_choice":{
+            "A": "the man",
+            "B": "the woman"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Harbour/ref_img.png",
+        "query_img": "validation_recognition/Harbour/query_img9.jpg",
+        "question": "What is <sks> doing in this photo?",
+        "multiple_choice":{
+            "A": "holding a woman",
+            "B": "eating"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Harbour/ref_img.png",
+        "query_img": "validation_recognition/Harbour/query_img9.jpg",
+        "question": "What is the hair color of the person <sks> holding?",
+        "multiple_choice":{
+            "A": "black",
+            "B": "blonde"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Harbour/ref_img.png",
+        "query_img": "validation_recognition/Harbour/query_img10.jpg",
+        "question": "Is <sks> having injuries on the face?",
+        "multiple_choice":{
+            "A": "Yes",
+            "B": "No"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Hemsworth/ref_img.png",
+        "query_img": "validation_recognition/Hemsworth/query_img1.jpg",
+        "question": "What is <sks> wearing in this photo?",
+        "multiple_choice":{
+            "A": "an armour",
+            "B": "a T-shirt",
+            "C": "a jacket"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Hemsworth/ref_img.png",
+        "query_img": "validation_recognition/Hemsworth/query_img3.jpg",
+        "question": "Is <sks> in this photo?",
+        "multiple_choice":{
+            "A": "Yes",
+            "B": "No"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Hemsworth/ref_img.png",
+        "query_img": "validation_recognition/Hemsworth/query_img3.jpg",
+        "question": "Is <sks> wearing a backpack?",
+        "multiple_choice":{
+            "A":"Yes",
+            "B": "No"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Hemsworth/ref_img.png",
+        "query_img": "validation_recognition/Hemsworth/query_img3.jpg",
+        "question": "Is <sks> wearing a hat?",
+        "multiple_choice":{
+            "A": "Yes",
+            "B": "No"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Hemsworth/ref_img.png",
+        "query_img": "validation_recognition/Hemsworth/query_img3.jpg",
+        "question": "Is <sks> sticking out the toungue?",
+        "multiple_choice":{
+            "A": "Yes",
+            "B": "No"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Hemsworth/ref_img.png",
+        "query_img": "validation_recognition/Hemsworth/query_img3.jpg",
+        "question": "What is <sks>'s facial expression?",
+        "multiple_choice":{
+            "A": "surprising",
+            "B": "sad",
+            "C": "smiling"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Hemsworth/ref_img.png",
+        "query_img": "validation_recognition/Hemsworth/query_img4.jpg",
+        "question": "What is in <sks> holding?",
+        "multiple_choice":{
+            "A": "a phone",
+            "B": "a book",
+            "C": "a cup"
+        },
+        "correct_answer":"C"
+    },
+    {
+        "ref_img": "validation_recognition/Hemsworth/ref_img.png",
+        "query_img": "validation_recognition/Hemsworth/query_img7.png",
+        "question": "What is <sks> wearing?",
+        "multiple_choice":{
+            "A": "a black jacket",
+            "B": "a yellow jacket",
+            "C": "a green jacket"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Hemsworth/ref_img.png",
+        "query_img":"validation_recognition/Hemsworth/query_img8.jpg",
+        "question": "Which person is <sks> in this photo?",
+        "multiple_choice":{
+            "A": "left person",
+            "B": "right person"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Hemsworth/ref_img.png",
+        "query_img": "validation_recognition/Hemsworth/query_img8.jpg",
+        "question": "Between <sks> and the person next to <sks>, who is taller?",
+        "multiple_choice":{
+            "A": "<sks>",
+            "B": "the person next to <sks>"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Hemsworth/ref_img.png",
+        "query_img": "validation_recognition/Hemsworth/query_img8.jpg",
+        "question": "Is <sks> wearing tie?",
+        "multiple_choice":{
+            "A": "Yes",
+            "B": "No"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Hemsworth/ref_img.png",
+        "query_img": "validation_recognition/Hemsworth/query_img9.jpg",
+        "question": "Who is <sks> in this photo?",
+        "multiple_choice":{
+            "A": "the left person",
+            "B": "the right person"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Hemsworth/ref_img.png",
+        "query_img": "validation_recognition/Hemsworth/query_img9.jpg",
+        "question":"Between <sks> and the person next to <sks>, who is taller?",
+        "multiple_choice":{
+            "A": "<sks>",
+            "B": "the person next to <sks>"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Hemsworth/ref_img.png",
+        "query_img": "validation_recognition/Hemsworth/query_img9.jpg",
+        "question": "Which is the person wearing bowtie in this photo?",
+        "multiple_choice":{
+            "A": "<sks>",
+            "B": "the person next to <sks>"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Ifeoma/ref_img.png",
+        "query_img":"validation_recognition/Ifeoma/query_img1.jpg",
+        "question": "What is behind <sks>?",
+        "multiple_choice":{
+            "A": "a desk",
+            "B": "a poster",
+            "C": "a toy"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Ifeoma/ref_img.png",
+        "query_img": "validation_recognition/Ifeoma/query_img1.jpg",
+        "question": "What is the color of <sks>'s shirt?",
+        "multiple_choice":{
+            "A": "yellow and white",
+            "B": "black",
+            "C": "black and white"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Ifeoma/ref_img.png",
+        "query_img": "validation_recognition/Ifeoma/query_img1.jpg",
+        "question": "Is <sks> wearing glasses",
+        "multiple_choice":{
+            "A": "Yes",
+            "B": "No"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Ifeoma/ref_img.png",
+        "query_img": "validation_recognition/Ifeoma/query_img1.jpg",
+        "question": "Is <sks> wearing earrings?",
+        "multiple_choice":{
+            "A": "Yes",
+            "B": "No"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Ifeoma/ref_img.png",
+        "query_img": "validation_recognition/Ifeoma/query_img1.jpg",
+        "question": "Is <sks> wearing a necklace?",
+        "multiple_choice":{
+            "A": "Yes",
+            "B": "No"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Ifeoma/ref_img.png",
+        "query_img": "validation_recognition/Ifeoma/query_img1.jpg",
+        "question": "What is the color of <sks>'s shirt?",
+        "multiple_choice":{
+            "A": "black",
+            "B": "blue",
+            "C": "pink"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Ifeoma/ref_img.png",
+        "query_img": "validation_recognition/Ifeoma/query_img1.jpg",
+        "question": "What is the following item that is behind <sks>?",
+        "multiple_choice":{
+            "A": "mountain",
+            "B": "a lake",
+            "C": "a dog"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Jeremy_Renner/ref_img.png",
+        "query_img": "validation_recognition/Jeremy_Renner/query_img1.jpg",
+        "question": "What is <sks> wearing?",
+        "multiple_choice":{
+            "A": "a black jacket",
+            "B": "a yellow jacket",
+            "C": "a blue jacket"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Jeremy_Renner/ref_img.png",
+        "query_img": "validation_recognition/Jeremy_Renner/query_img2.jpg",
+        "question": "What is <sks> wearing?",
+        "multiple_choice":{
+            "A": "a suit",
+            "B": "a jacket",
+            "C": "a T-shirt"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Jeremy_Renner/ref_img.png",
+        "query_img": "validation_recognition/Jeremy_Renner/query_img3.png",
+        "question": "What is <sks> doing?",
+        "multiple_choice":{
+            "A": "making a phone call",
+            "B": "cooking",
+            "C": "dining"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Jeremy_Renner/ref_img.png",
+        "query_img": "validation_recognition/Jeremy_Renner/query_img3.png",
+        "question": "What is behind <sks>?",
+        "multiple_choice":{
+            "A": "a horse",
+            "B": "a car",
+            "C": "a bike"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Jeremy_Renner/ref_img.png",
+        "query_img": "validation_recognition/Jeremy_Renner/query_img4.jpg",
+        "question": "Which person is <sks> in the photo?",
+        "multiple_choice":{
+            "A": "the person to the left of the photo",
+            "B": "the person to the right of the photo"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Jeremy_Renner/ref_img.png",
+        "query_img": "validation_recognition/Jeremy_Renner/query_img4.jpg",
+        "question": "What is the color of <sks>'s pants?",
+        "multiple_choice":{
+            "A": "white",
+            "B": "blue",
+            "C": "black"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Jeremy_Renner/ref_img.png",
+        "query_img": "validation_recognition/Jeremy_Renner/query_img4.jpg",
+        "question": "What is the shirt color of the person next to <sks>?",
+        "multiple_choice":{
+            "A": "white",
+            "B": "blue",
+            "C": "green"
+        },
+        "correct_answer":"C"
+    },
+    {
+        "ref_img": "validation_recognition/Jeremy_Renner/ref_img.png",
+        "query_img": "validation_recognition/Jeremy_Renner/query_img4.jpg",
+        "question": "What is the paints color of the person next to <sks>?",
+        "multiple_choice":{
+            "A": "white",
+            "B": "blue",
+            "C": "black"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img":"validation_recognition/Jeremy_Renner/ref_img.png",
+        "query_img": "validation_recognition/Jeremy_Renner/query_img6.png",
+        "question": "What is <sks> carrying?",
+        "multiple_choice":{
+            "A": "phone",
+            "B": "barbell",
+            "C": "a stick"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "ref_img": "validation_recognition/Jeremy_Renner/ref_img.png",
+        "query_img": "validation_recognition/Jeremy_Renner/query_img6.png",
+        "question": "What is the color of <sks>'s shirt?",
+        "multiple_choice":{
+            "A": "green",
+            "B": "red",
+            "C": "blue"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Jeremy_Renner/ref_img.png",
+        "query_img": "validation_recognition/Jeremy_Renner/query_img7.jpeg",
+        "question": "Which person is <sks> in the photo?",
+        "multiple_choice":{
+            "A": "the person to the left of the photo",
+            "B": "the person to the right of the photo"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Jeremy_Renner/ref_img.png",
+        "query_img": "validation_recognition/Jeremy_Renner/query_img7.jpeg",
+        "question": "What is the hair color of the person standing next to <sks>?",
+        "multiple_choice":{
+            "A": "black",
+            "B": "blonde",
+            "C": "red"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Jeremy_Renner/ref_img.png",
+        "query_img": "validation_recognition/Jeremy_Renner/query_img7.jpeg",
+        "question": "What is the color of the shirt of the person standing next to <sks>?",
+        "multiple_choice":{
+            "A": "black",
+            "B": "red"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Jeremy_Renner/ref_img.png",
+        "query_img":"validation_recognition/Jeremy_Renner/query_img7.jpeg",
+        "question": "Between <sks> and the person next to <sks>, who is taller?",
+        "multiple_choice":{
+            "A": "<sks>",
+            "B": "the person next to <sks>"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Jeremy_Renner/ref_img.png",
+        "query_img": "validation_recognition/Jeremy_Renner/query_img8.jpg",
+        "question": "Which person is <sks> in this photo?",
+        "multiple_choice":{
+            "A": "the person to the left of the photo",
+            "B": "the person to the right of the photo"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/JiWon/ref_img.png",
+        "query_img":"validation_recognition/JiWon/query_img1.jpg",
+        "question": "What is the color of <sks>'s outer jacket?",
+        "multiple_choice":{
+            "A": "black",
+            "B": "yellow",
+            "C": "blue"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/JiWon/ref_img.png",
+        "query_img": "validation_recognition/JiWon/query_img1.jpg",
+        "question": "Is <sks> wearing earrings?",
+        "multiple_choice":{
+            "A": "Yes",
+            "B": "No"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/JiWon/ref_img.png",
+        "query_img": "validation_recognition/JiWon/query_img2.jpg",
+        "question": "Is <sks> wearing a necklace?",
+        "multiple_choice":{
+            "A": "Yes",
+            "B": "No"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/JiWon/ref_img.png",
+        "query_img": "validation_recognition/JiWon/query_img3.jpg",
+        "question": "Which person is <sks> in this photo?",
+        "multiple_choice":{
+            "A":"the person to the left of the photo",
+            "B": "the person to the right of the photo"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/JiWon/ref_img.png",
+        "query_img": "validation_recognition/JiWon/query_img3.jpg",
+        "question":"Between <sks> and the next person, who is taller?",
+        "multiple_choice":{
+            "A": "<sks>",
+            "B": "the person next to <sks>"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/JiWon/ref_img.png",
+        "query_img": "validation_recognition/JiWon/query_img3.jpg",
+        "question": "What is the color of <sks>'s shirt?",
+        "multiple_choice":{
+            "A": "pink",
+            "B": "black"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/JiWon/ref_img.png",
+        "query_img": "validation_recognition/JiWon/query_img3.jpg",
+        "question": "What is the shirt color of the person next to <sks>?",
+        "multiple_choice":{
+            "A": "pink",
+            "B": "black"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/JiWon/ref_img.png",
+        "query_img": "validation_recognition/JiWon/query_img4.jpeg",
+        "question": "Which person is <sks> in the photo?",
+        "multiple_choice":{
+            "A": "the person to the left of the photo",
+            "B": "the person to the right of the photo"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/JiWon/ref_img.png",
+        "query_img": "validation_recognition/JiWon/query_img4.jpeg",
+        "question": "Where is <sks>?",
+        "multiple_choice":{
+            "A": "flower field",
+            "B": "kitchen"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/JiWon/ref_img.png",
+        "query_img": "validation_recognition/JiWon/query_img6.jpg",
+        "question": "What is <sks>'s facial expression?",
+        "multiple_choice":{
+            "A": "smiling",
+            "B": "sad"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/KennyG/ref_img.png",
+        "query_img": "validation_recognition/KennyG/query_img1.jpg",
+        "question": "What is <sks> doing?",
+        "multiple_choice":{
+            "A": "playing guitar",
+            "B": "playing saxophone",
+            "C": "playing piano"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "ref_img": "validation_recognition/KennyG/ref_img.png",
+        "query_img": "validation_recognition/KennyG/query_img2.jpg",
+        "question": "What is <sks> wearing?",
+        "multiple_choice":{
+            "A": "blue shirt",
+            "B": "red shirt",
+            "C": "green shirt"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/KennyG/ref_img.png",
+        "query_img": "validation_recognition/KennyG/query_img2.jpg",
+        "question": "What is <sks> doing in this photo?",
+        "multiple_choice":{
+            "A": "sitting",
+            "B": "standing",
+            "C": "playing saxophone"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/KennyG/ref_img.png",
+        "query_img":"validation_recognition/KennyG/query_img6.jpg",
+        "question": "Which person is <sks> in the photo?",
+        "multiple_choice":{
+            "A": "the person to the left of the photo",
+            "B": "the person to the right of the photo"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/KennyG/ref_img.png",
+        "query_img": "validation_recognition/KennyG/query_img6.jpg",
+        "question": "What is the outer shirt of <sks>?",
+        "multiple_choice":{
+            "A": "a black jacket",
+            "B": "a white jacket"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/KennyG/ref_img.png",
+        "query_img": "validation_recognition/KennyG/query_img6.jpg",
+        "question": "What is the material of the <sks>'s outer jacket?",
+        "multiple_choice":{
+            "A": "jeans",
+            "B": "leather"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/KennyG/ref_img.png",
+        "query_img": "validation_recognition/KennyG/query_img6.jpg",
+        "question": "What is the gender of the person next to <sks>?",
+        "multiple_choice":{
+            "A": "male",
+            "B": "female"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/KennyG/ref_img.png",
+        "query_img": "validation_recognition/KennyG/query_img7.png",
+        "question": "What is <sks> sitting on in this photo?",
+        "multiple_choice":{
+            "A": "a chair",
+            "B": "a desk",
+            "C": "a sofa"
+        },
+        "correct_answer":"C"
+    },
+    {
+        "ref_img": "validation_recognition/KennyG/ref_img.png",
+        "query_img": "validation_recognition/KennyG/query_img7.png",
+        "question": "What is <sks> carrying in the hand?",
+        "multiple_choice":{
+            "A": "a guitar",
+            "B": "a saxophone",
+            "C": "a stick"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Lionel_Richie/ref_img.png",
+        "query_img": "validation_recognition/Lionel_Richie/query_img1.jpg",
+        "question": "Which one is <sks> in this photo?",
+        "multiple_choice":{
+            "A": "the left person",
+            "B": "the right person"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Lionel_Richie/ref_img.png",
+        "query_img": "validation_recognition/Lionel_Richie/query_img1.jpg",
+        "question": "What is the color of <sks> shirt?",
+        "multiple_choice":{
+            "A": "black",
+            "B": "blue"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Lionel_Richie/ref_img.png",
+        "query_img": "validation_recognition/Lionel_Richie/query_img1.jpg",
+        "question": "What is the type of <sks>'s outer shirt?",
+        "multiple_choice":{
+            "A": "jacket",
+            "B": "jeans",
+            "C": "T-shirt"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Lionel_Richie/ref_img.png",
+        "query_img": "validation_recognition/Lionel_Richie/query_img2.jpg",
+        "question": "What is next to <sks>?",
+        "multiple_choice":{
+            "A": "a guitar",
+            "B": "a piano",
+            "C": "a saxophone"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Lionel_Richie/ref_img.png",
+        "query_img": "validation_recognition/Lionel_Richie/query_img3.jpg",
+        "question": "Which person is <sks> in this photo?",
+        "multiple_choice":{
+            "A": "the person to the left of the photo",
+            "B": "the person to the right of the photo"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Lionel_Richie/ref_img.png",
+        "query_img": "validation_recognition/Lionel_Richie/query_img3.jpg",
+        "question": "What is <sks> wearing in this photo?",
+        "multiple_choice": {
+            "A": "a suit",
+            "B": "a T-shirt",
+            "C": "a jacket"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Lionel_Richie/ref_img.png",
+        "query_img": "validation_recognition/Lionel_Richie/query_img4.jpg",
+        "question": "Who is <sks> in this photo?",
+        "multiple_choice":{
+            "A": "the person to the left of the photo",
+            "B": "the person to the right of the photo"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Matarazzo/ref_img.png",
+        "query_img": "validation_recognition/Matarazzo/query_img2.jpg",
+        "question": "Which person is <sks> in the photo?",
+        "multiple_choice":{
+            "A": "the left person",
+            "B": "the right person"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Matarazzo/ref_img.png",
+        "query_img": "validation_recognition/Matarazzo/query_img2.jpg",
+        "question": "What is the hair color of the person next to <sks>?",
+        "multiple_choice":{
+            "A": "black",
+            "B": "red",
+            "C": "blonde"
+        },
+        "correct_answer":"C"
+    },
+    {
+        "ref_img": "validation_recognition/Matarazzo/ref_img.png",
+        "query_img": "validation_recognition/Matarazzo/query_img2.jpg",
+        "question": "What is the person next to <sks> wearing?",
+        "multiple_choice":{
+            "A": "a pink dress",
+            "B": "a yellow dress",
+            "C": "an orange dress"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Matarazzo/ref_img.png",
+        "query_img": "validation_recognition/Matarazzo/query_img2.jpg",
+        "question": "Between <sks> and the person next to <sks>, who is taller?",
+        "multiple_choice":{
+            "A": "<sks>",
+            "B": "the person next to <sks>"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Matarazzo/ref_img.png",
+        "query_img": "validation_recognition/Matarazzo/query_img3.jpg",
+        "question": "Is <sks> in this photo?",
+        "multiple_choice":{
+            "A": "Yes",
+            "B": "No"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Matarazzo/ref_img.png",
+        "query_img": "validation_recognition/Matarazzo/query_img3.jpg",
+        "question": "Who is <sks> in this photo?",
+        "multiple_choice":{
+            "A": "left most",
+            "B": "middle",
+            "C": "right most"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "ref_img": "validation_recognition/Matarazzo/ref_img.png",
+        "query_img": "validation_recognition/Matarazzo/query_img3.jpg",
+        "question": "Is <sks> wearing watch?",
+        "multiple_choice":{
+            "A": "Yes",
+            "B": "No"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Matarazzo/ref_img.png",
+        "query_img": "validation_recognition/Matarazzo/query_img3.jpg",
+        "question": "Is the person next to <sks> wearing a watch?",
+        "multiple_choice":{
+            "A": "Yes",
+            "B": "No"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Matarazzo/ref_img.png",
+        "query_img": "validation_recognition/Matarazzo/query_img3.jpg",
+        "question": "Who is next to <sks> in this photo?",
+        "multiple_choice":{
+            "A": "the man",
+            "B": "the woman"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Matarazzo/ref_img.png",
+        "query_img": "validation_recognition/Matarazzo/query_img3.jpg",
+        "question": "Is <sks> wearing a hat in this photo?",
+        "multiple_choice":{
+            "A": "Yes",
+            "B": "No"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Matarazzo/ref_img.png",
+        "query_img": "validation_recognition/Matarazzo/query_img6.jpeg",
+        "question": "What is <sks> doing in this photo?",
+        "multiple_choice":{
+            "A": "sitting",
+            "B": "standing",
+            "C": "playing guitar"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Matarazzo/ref_img.png",
+        "query_img": "validation_recognition/Matarazzo/query_img7.jpg",
+        "question": "Which person is <sks> in this photo?",
+        "multiple_choice":{
+            "A": "the person to the left of the photo",
+            "B": "the person to the right of the photo"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Matarazzo/ref_img.png",
+        "query_img": "validation_recognition/Matarazzo/query_img7.jpg",
+        "question": "What is the hat color of the person next to <sks>?",
+        "multiple_choice":{
+            "A": "green",
+            "B": "blue",
+            "C": "red"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Matarazzo/ref_img.png",
+        "query_img": "validation_recognition/Matarazzo/query_img7.jpg",
+        "question": "Between <sks> and the next person, who is taller?",
+        "multiple_choice":{
+            "A": "<sks>",
+            "B": "the person next to <sks>"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "ref_img": "validation_recognition/Matarazzo/ref_img.png",
+        "query_img": "validation_recognition/Matarazzo/query_img7.jpg",
+        "question": "What is the paints color of the person next to <sks>?",
+        "multiple_choice":{
+            "A": "brown",
+            "B": "black",
+            "C": "blue"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Matarazzo/ref_img.png",
+        "query_img": "validation_recognition/Matarazzo/query_img7.jpg",
+        "question": "What is <sks> carrying in the hand?",
+        "multiple_choice":{
+            "A": "a cup of coffee",
+            "B": "a book",
+            "C": "a toy"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Matarazzo/ref_img.png",
+        "query_img": "validation_recognition/Matarazzo/query_img8.jpg",
+        "question": "Who is <sks> in this photo?",
+        "multiple_choice":{
+            "A": "the left person",
+            "B": "the right person"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Matarazzo/ref_img.png",
+        "query_img": "validation_recognition/Matarazzo/query_img8.jpg",
+        "question": "Is the person next to <sks> wearing a vest?",
+        "multiple_choice":{
+            "A": "Yes",
+            "B": "No"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "ref_img": "validation_recognition/Matarazzo/ref_img.png",
+        "query_img": "validation_recognition/Matarazzo/query_img8.jpg",
+        "question": "Which person is <sks> in this photo?",
+        "multiple_choice":{
+            "A": "left person",
+            "B": "right person"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Matarazzo/ref_img.png",
+        "query_img": "validation_recognition/Matarazzo/query_img9.jpg",
+        "question": "Which person wearing bow tie in this photo?",
+        "multiple_choice":{
+            "A": "<sks>",
+            "B": "the person next to <sks>"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Millie/ref_img.png",
+        "query_img": "validation_recognition/Millie/query_img2.png",
+        "question": "Which person is <sks> in this photo?",
+        "multiple_choice":{
+            "A": "the left person",
+            "B": "the right person"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Millie/ref_img.png",
+        "query_img":"validation_recognition/Millie/query_img2.png",
+        "question": "What is <sks> wearing in this photo?",
+        "multiple_choice":{
+            "A": "a dress",
+            "B": "a suit"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Millie/ref_img.png",
+        "query_img": "validation_recognition/Millie/query_img2.png",
+        "question": "What is the person next to <sks> wearing?",
+        "multiple_choice":{
+            "A": "a dress",
+            "B": "a suit"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Millie/ref_img.png",
+        "query_img": "validation_recognition/Millie/query_img2.png",
+        "question": "Is <sks> wearing sunglass?",
+        "multiple_choice":{
+            "A": "Yes",
+            "B": "No"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Millie/ref_img.png",
+        "query_img": "validation_recognition/Millie/query_img2.png",
+        "question": "Who is wearing sunglass in this photo?",
+        "multiple_choice":{
+            "A": "<sks>",
+            "B": "the person next to <sks>"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Millie/ref_img.png",
+        "query_img": "validation_recognition/Millie/query_img4.jpg",
+        "question": "What is <sks> wearing in this photo?",
+        "multiple_choice":{
+            "A": "white dress",
+            "B": "black dress"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Millie/ref_img.png",
+        "query_img": "validation_recognition/Millie/query_img6.jpg",
+        "question": "Which person is <sks> in the photo?",
+        "multiple_choice":{
+            "A": "the left person",
+            "B": "the right person"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Millie/ref_img.png",
+        "query_img": "validation_recognition/Millie/query_img6.jpg",
+        "question": "What is the dress color of the person next to <sks>?",
+        "multiple_choice":{
+            "A": "white",
+            "B": "pink",
+            "C": "black"
+        },
+        "correct_answer":"C"
+    },
+    {
+        "ref_img": "validation_recognition/Millie/ref_img.png",
+        "query_img": "validation_recognition/Millie/query_img7.jpg",
+        "question": "Between two main people in this photo, which one is <sks>?",
+        "multiple_choice":{
+            "A": "the person to the left",
+            "B": "the person to the right"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Millie/ref_img.png",
+        "query_img": "validation_recognition/Millie/query_img7.jpg",
+        "question": "What is the color of <sks>'s dress?",
+        "multiple_choice":{
+            "A": "black",
+            "B": "white"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Sadie_Sink/ref_img.png",
+        "query_img": "validation_recognition/Millie/query_img7.jpg",
+        "question": "What is the color of <sks>'s dress?",
+        "multiple_choice":{
+            "A": "black",
+            "B": "white"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Sadie_Sink/ref_img.png",
+        "query_img": "validation_recognition/Millie/query_img7.jpg",
+        "question": "Between two main people in this photo, which one is <sks>?",
+        "multiple_choice":{
+            "A": "the person to the left",
+            "B": "the person to the right"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Morgan/ref_img.png",
+        "query_img": "validation_recognition/Morgan/query_img2.png",
+        "question": "Who is <sks> in this photo?",
+        "multiple_choice":{
+            "A": "the man",
+            "B": "the woman"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Morgan/ref_img.png",
+        "query_img": "validation_recognition/Morgan/query_img2.png",
+        "question": "What is <sks> wearing in this photo?",
+        "multiple_choice":{
+            "A": "a black suit",
+            "B": "a pink T-shirt"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Morgan/ref_img.png",
+        "query_img": "validation_recognition/Morgan/query_img3.png",
+        "question": "Which one is <sks> in this photo?",
+        "multiple_choice":{
+            "A": "the left person",
+            "B": "the right person"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Morgan/ref_img.png",
+        "query_img": "validation_recognition/Morgan/query_img3.png",
+        "question": "Is the person next to <sks> wearing glasses?",
+        "multiple_choice":{
+            "A": "Yes",
+            "B": "No"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Morgan/ref_img.png",
+        "query_img": "validation_recognition/Morgan/query_img3.png",
+        "question": "Who is the person wearing bow tie?",
+        "multiple_choice":{
+            "A": "<sks>",
+            "B": "the person next to <sks>"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Morgan/ref_img.png",
+        "query_img": "validation_recognition/Morgan/query_img3.png",
+        "question": "Who is the person wearing glasses?",
+        "multiple_choice":{
+            "A":"<sks>",
+            "B": "the person next to <sks>"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Morgan/ref_img.png",
+        "query_img": "validation_recognition/Morgan/query_img7.jpeg",
+        "question": "Who is <sks> in this photo?",
+        "multiple_choice":{
+            "A": "the man standing behind",
+            "B": "the man standing at the front"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Morgan/ref_img.png",
+        "query_img": "validation_recognition/Morgan/query_img7.jpeg",
+        "question": "What is the color of <sks>'s clothes?",
+        "multiple_choice":{
+            "A": "white",
+            "B": "black"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Morgan/ref_img.png",
+        "query_img": "validation_recognition/Morgan/query_img7.jpeg",
+        "question": "What is the clothes color of the person next to <sks>?",
+        "multiple_choice":{
+            "A": "white",
+            "B": "black"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Morgan/ref_img.png",
+        "query_img": "validation_recognition/Morgan/query_img8.jpg",
+        "question": "Between two main people in this photo, which one is <sks>?",
+        "multiple_choice":{
+            "A": "the person to the left of the photo",
+            "B": "the person to the right of the photo"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Morgan/ref_img.png",
+        "query_img": "validation_recognition/Morgan/query_img8.jpg",
+        "question": "Is <sks> wearing necktie?",
+        "multiple_choice":{
+            "A": "Yes",
+            "B": "No"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Morgan/ref_img.png",
+        "query_img": "validation_recognition/Morgan/query_img8.jpg",
+        "question": "Is <sks> wearing bow tie?",
+        "multiple_choice":{
+            "A": "Yes",
+            "B": "No"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Pep/ref_img.png",
+        "query_img": "validation_recognition/Pep/query_img1.png",
+        "question": "Which person is <sks> in this photo?",
+        "multiple_choice":{
+            "A": "the person at the back",
+            "B": "the person at the front, left side, black shirt",
+            "C": "the person at the front, right side, blue shirt"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Pep/ref_img.png",
+        "query_img": "validation_recognition/Pep/query_img1.png",
+        "question": "What is the person to the right of <sks> wearing?",
+        "multiple_choice":{
+            "A": "blue shirt",
+            "B": "yellow shirt"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Pep/ref_img.png",
+        "query_img": "validation_recognition/Pep/query_img1.png",
+        "question": "What is <sks> wearing in this photo?",
+        "multiple_choice":{
+            "A": "black sweater",
+            "B": "blue sweater"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Pep/ref_img.png",
+        "query_img": "validation_recognition/Pep/query_img4.png",
+        "question": "Between two main people in this photo, which one is <sks>?",
+        "multiple_choice":{
+            "A": "the left person",
+            "B": "the right person"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Pep/ref_img.png",
+        "query_img": "validation_recognition/Pep/query_img4.png",
+        "question": "What is <sks> wearing?",
+        "multiple_choice":{
+            "A": "gray sweater",
+            "B": "black coat"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Pep/ref_img.png",
+        "query_img": "validation_recognition/Pep/query_img4.png",
+        "question": "What is the person next to <sks> wearing?",
+        "multiple_choice":{
+            "A": "gray sweater",
+            "B": "black coat"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Pep/ref_img.png",
+        "query_img": "validation_recognition/Pep/query_img6.jpg",
+        "question": "Where is <sks> in this photo?",
+        "multiple_choice":{
+            "A": "at the theatre",
+            "B": "at the tennis court",
+            "C": "at the stadium"
+        },
+        "correct_answer":"C"
+    },
+    {
+        "ref_img": "validation_recognition/Pep/ref_img.png",
+        "query_img": "validation_recognition/Pep/query_img6.jpg",
+        "question": "What is the color of <sks>'s shoes?",
+        "multiple_choice":{
+            "A": "black",
+            "B": "white"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Pep/ref_img.png",
+        "query_img": "validation_recognition/Pep/query_img7.jpg",
+        "question": "Which person is <sks> in the photo?",
+        "multiple_choice":{
+            "A": "the left person",
+            "B": "the right person"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Pep/ref_img.png",
+        "query_img": "validation_recognition/Pep/query_img8.jpg",
+        "question": "Which person is <sks> in the photo?",
+        "multiple_choice":{
+            "A": "the left person",
+            "B": "the right person"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img":"validation_recognition/Pep/ref_img.png",
+        "query_img": "validation_recognition/Pep/query_img8.jpg",
+        "question": "Which person wearing black suit in this photo?",
+        "multiple_choice":{
+            "A": "<sks>",
+            "B": "the person next to <sks>"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Pep/ref_img.png",
+        "query_img": "validation_recognition/Pep/query_img9.jpg",
+        "question": "Which person is  <sks> in this photo?",
+        "multiple_choice":{
+            "A": "left person",
+            "B": "right person"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Pep/ref_img.png",
+        "query_img": "validation_recognition/Pep/query_img9.jpg",
+        "question": "What is the type of <sks>'s shirt?",
+        "multiple_choice":{
+            "A":"coat",
+            "B": "hoodie"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Pep/ref_img.png",
+        "query_img": "validation_recognition/Pep/query_img9.jpg",
+        "question": "What is the shirt type of the person next to <sks>?",
+        "multiple_choice":{
+            "A": "coat",
+            "B": "hoodie"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Pep/ref_img.png",
+        "query_img": "validation_recognition/Pep/query_img10.jpeg",
+        "question": "Who is <sks> in this photo?",
+        "multiple_choice":{
+            "A": "the left person",
+            "B": "the right person"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Pep/ref_img.png",
+        "query_img": "validation_recognition/Pep/query_img10.jpeg",
+        "question": "What is <sks> wearing in this photo?",
+        "multiple_choice":{
+            "A": "grey sweater",
+            "B": "blue coat"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Pep/ref_img.png",
+        "query_img": "validation_recognition/Pep/query_img10.jpeg",
+        "question": "What is the person next to <sks> wearing?",
+        "multiple_choice":{
+            "A": "grey sweater",
+            "B": "blue coat"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Rihanna/ref_img.png",
+        "query_img": "validation_recognition/Rihanna/query_img1.jpg",
+        "question": "What is the following accessories <sks> wearing?",
+        "multiple_choice":{
+            "A": "only necklace",
+            "B": "only earrings",
+            "C": "both necklace and earrings"
+        },
+        "correct_answer":"C"
+    },
+    {
+        "ref_img": "validation_recognition/Rihanna/ref_img.png",
+        "query_img": "validation_recognition/Rihanna/query_img2.jpg",
+        "question": "What is the shirt main color of person behind <sks>?",
+        "multiple_choice":{
+            "A": "yellow",
+            "B": "blue",
+            "C": "red"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Rihanna/ref_img.png",
+        "query_img": "validation_recognition/Rihanna/query_img2.jpg",
+        "question": "Who is <sks> in this photo?",
+        "multiple_choice":{
+            "A": "the person at the back",
+            "B": "the person at the front"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Rihanna/ref_img.png",
+        "query_img": "validation_recognition/Rihanna/query_img6.jpg",
+        "question": "Who is <sks> in this photo?",
+        "multiple_choice":{
+            "A": "the left person",
+            "B": "the right person"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Rihanna/ref_img.png",
+        "query_img": "validation_recognition/Rihanna/query_img6.jpg",
+        "question": "What is the hair color of the person next to <sks>?",
+        "multiple_choice":{
+            "A": "black",
+            "B": "blonde"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/RobertJr/ref_img.png",
+        "query_img": "validation_recognition/RobertJr/query_img4.jpg",
+        "question": "Who is <sks> in this photo?",
+        "multiple_choice":{
+            "A": "the left person",
+            "B": "the right person"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/RobertJr/ref_img.png",
+        "query_img": "validation_recognition/RobertJr/query_img4.jpg",
+        "question": "Is <sks> wearing bow tie?",
+        "multiple_choice":{
+            "A": "Yes",
+            "B": "No"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/RobertJr/ref_img.png",
+        "query_img": "validation_recognition/RobertJr/query_img4.jpg",
+        "question": "What is the color of <sks>'s tie?",
+        "multiple_choice":{
+            "A": "white",
+            "B": "black"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/RobertJr/ref_img.png",
+        "query_img": "validation_recognition/RobertJr/query_img6.jpg",
+        "question": "Which person is <sks> in this photo?",
+        "multiple_choice":{
+            "A": "the left person",
+            "B": "the right person"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/RobertJr/ref_img.png",
+        "query_img": "validation_recognition/RobertJr/query_img6.jpg",
+        "question": "Is the person next to <sks> wearing tie?",
+        "multiple_choice":{
+            "A": "Yes",
+            "B": "No"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/RobertJr/ref_img.png",
+        "query_img": "validation_recognition/RobertJr/query_img6.jpg",
+        "question": "Is <sks> wearing necktie?",
+        "multiple_choice":{
+            "A": "Yes",
+            "B": "No"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/RobertJr/ref_img.png",
+        "query_img": "validation_recognition/RobertJr/query_img6.jpg",
+        "question": "Which person is wearing hat in this photo?",
+        "multiple_choice":{
+            "A": "<sks>",
+            "B": "the person next to <sks>"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/RobertJr/ref_img.png",
+        "query_img": "validation_recognition/RobertJr/query_img7.jpg",
+        "question": "Which one is <sks> in this photo?",
+        "multiple_choice":{
+            "A": "the left person",
+            "B": "the right person"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/RobertJr/ref_img.png",
+        "query_img": "validation_recognition/RobertJr/query_img7.jpg",
+        "question": "What is the hair color of the person next to <sks>?",
+        "multiple_choice":{
+            "A": "black",
+            "B": "blonde"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "ref_img": "validation_recognition/RobertJr/ref_img.png",
+        "query_img": "validation_recognition/RobertJr/query_img7.jpg",
+        "question": "Which is the person is wearing necktie in this photo?",
+        "multiple_choice":{
+            "A": "<sks>",
+            "B": "the person next to <sks>"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Roger/ref_img.png",
+        "query_img": "validation_recognition/Roger/query_img2.jpg",
+        "question": "Which person is  <sks> in this photo?",
+        "multiple_choice":{
+            "A": "the left person",
+            "B": "the right person"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Roger/ref_img.png",
+        "query_img":"validation_recognition/Roger/query_img2.jpg",
+        "question": "Who is wearing necktie in this photo?",
+        "multiple_choice":{
+            "A": "<sks>",
+            "B": "the person next to <sks>"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Roger/ref_img.png",
+        "query_img": "validation_recognition/Roger/query_img2.jpg",
+        "question": "What is the hair color of the person next to <sks>?",
+        "multiple_choice":{
+            "A": "black",
+            "B": "blonde"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Roger/ref_img.png",
+        "query_img": "validation_recognition/Roger/query_img2.jpg",
+        "question": "What is the shirt color of the person next to <sks>?",
+        "multiple_choice":{
+            "A": "black",
+            "B": "white"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Roger/ref_img.png",
+        "query_img": "validation_recognition/Roger/query_img3.jpeg",
+        "question": "Who is <sks> in this photo?",
+        "multiple_choice":{
+            "A": "the person at the front",
+            "B": "the person at the back"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Roger/ref_img.png",
+        "query_img": "validation_recognition/Roger/query_img3.jpeg",
+        "question": "What is <sks>'s special accessories in this photo?",
+        "multiple_choice":{
+            "A": "earrings",
+            "B": "necklace",
+            "C": "watch"
+        },
+        "correct_answer":"C"
+    },
+    {
+        "ref_img": "validation_recognition/Roger/ref_img.png",
+        "query_img": "validation_recognition/Roger/query_img5.jpeg",
+        "question": "Which person is <sks> in this photo?",
+        "multiple_choice":{
+            "A": "left person",
+            "B": "right person"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Roger/ref_img.png",
+        "query_img": "validation_recognition/Roger/query_img5.jpeg",
+        "question": "What is <sks> wearing in this photo?",
+        "multiple_choice":{
+            "A": "blue jacket",
+            "B": "blue T-shirt"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Roger/ref_img.png",
+        "query_img": "validation_recognition/Roger/query_img5.jpeg",
+        "question": "Is <sks> wearing a watch?",
+        "multiple_choice":{
+            "A": "Yes",
+            "B": "No"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Roger/ref_img.png",
+        "query_img": "validation_recognition/Roger/query_img5.jpeg",
+        "question": "Is the person next to <sks> wearing a watch?",
+        "multiple_choice":{
+            "A": "Yes",
+            "B": "No"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Sadie_Sink/ref_img.png",
+        "query_img": "validation_recognition/Sadie_Sink/query_img7.png",
+        "question": "Which person is <sks> in the photo?",
+        "multiple_choice":{
+            "A": "the left person",
+            "B": "the right person"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Sadie_Sink/ref_img.png",
+        "query_img": "validation_recognition/Sadie_Sink/query_img8.jpg",
+        "question": "Which person is <sks> in the photo?",
+        "multiple_choice":{
+            "A": "the left person",
+            "B": "the right person"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Sadie_Sink/ref_img.png",
+        "query_img": "validation_recognition/Sadie_Sink/query_img8.jpg",
+        "question": "What is the color of <sks>'s shirt?",
+        "multiple_choice":{
+            "A": "white",
+            "B": "black",
+            "C": "blue"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Sadie_Sink/ref_img.png",
+        "query_img": "validation_recognition/Sadie_Sink/query_img8.jpg",
+        "question": "What is the hair color of the person next to <sks>?",
+        "multiple_choice":{
+            "A": "blonde",
+            "B": "black",
+            "C": "red"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/Sam_Wilson/ref_img.png",
+        "query_img": "validation_recognition/Sam_Wilson/query_img3.jpg",
+        "question": "Where is <sks> in this photo?",
+        "multiple_choice":{
+            "A": "left person",
+            "B": "right person"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/Sam_Wilson/ref_img.png",
+        "query_img": "validation_recognition/Sam_Wilson/query_img3.jpg",
+        "question": "What is <sks> wearing in this photo?",
+        "multiple_choice":{
+            "A": "T-shirt",
+            "B": "jacket",
+            "C": "armour"
+        },
+        "correct_answer":"C"
+    },
+    {
+        "ref_img": "validation_recognition/SirAlex/ref_img.png",
+        "query_img": "validation_recognition/SirAlex/query_img3.jpg",
+        "question": "Which person is <sks> in the photo?",
+        "multiple_choice":{
+            "A": "the left person",
+            "B": "the right person"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/SirAlex/ref_img.png",
+        "query_img": "validation_recognition/SirAlex/query_img3.jpg",
+        "question": "What is the color of the shirt the person next to <sks> wearing?",
+        "multiple_choice":{
+            "A": "black",
+            "B": "red",
+            "C": "white"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/SirAlex/ref_img.png",
+        "query_img": "validation_recognition/SirAlex/query_img3.jpg",
+        "question": "Is the person next to <sks> wearing necktie?",
+        "multiple_choice":{
+            "A":"Yes",
+            "B":"No"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/SirAlex/ref_img.png",
+        "query_img": "validation_recognition/SirAlex/query_img6.jpg",
+        "question": "Who is <sks> in this photo?",
+        "multiple_choice":{
+            "A": "left person",
+            "B": "right person"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/SirAlex/ref_img.png",
+        "query_img": "validation_recognition/SirAlex/query_img6.jpg",
+        "question": "Is <sks> wearing necktie?",
+        "multiple_choice":{
+            "A": "Yes",
+            "B": "No"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/SirAlex/ref_img.png",
+        "query_img": "validation_recognition/SirAlex/query_img6.jpg",
+        "question": "Is the person next to <sks> wearing necktie?",
+        "multiple_choice":{
+            "A": "Yes",
+            "B": "No"
+        },
+        "correct_answer":"B"
+    },
+    {
+        "ref_img": "validation_recognition/SirAlex/ref_img.png",
+        "query_img": "validation_recognition/SirAlex/query_img6.jpg",
+        "question": "What is <sks> doing in this photo?",
+        "multiple_choice":{
+            "A": "holding trophy",
+            "B": "shaking hand"
+        },
+        "correct_answer":"A"
+    }
+]

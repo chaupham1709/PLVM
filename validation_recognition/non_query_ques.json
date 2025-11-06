@@ -1,0 +1,657 @@
+[
+    {
+        "ref_img": "validation_recognition/Andrew/ref_img.png",
+        "question": "What is <sks>'s hair color?",
+        "multiple_choice": {
+            "A": "black",
+            "B": "brown",
+            "C": "blue"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "ref_img": "validation_recognition/Andrew/ref_img.png",
+        "question": "What is <sks>'s skin color?",
+        "multiple_choice": {
+            "A": "dark",
+            "B": "white"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "ref_img": "validation_recognition/Andrew/ref_img.png",
+        "question": "Is <sks> a man or a woman?",
+        "multiple_choice": {
+            "A": "man",
+            "B": "woman"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Avril/ref_img.png",
+        "question": "What is <sks>'s hair color?",
+        "multiple_choice": {
+            "A": "blonde",
+            "B": "black"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Avril/ref_img.png",
+        "question": "What is <sks>'s skin color?",
+        "multiple_choice": {
+            "A": "dark",
+            "B": "white",
+            "C": "yellow"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "ref_img": "validation_recognition/Avril/ref_img.png",
+        "question": "Is <sks> young or old?",
+        "multiple_choice":{
+            "A": "young",
+            "B": "old"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Billie/ref_img.png",
+        "question": "Is <sks> young or old?",
+        "multiple_choice":{
+            "A": "young",
+            "B": "old"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Billie/ref_img.png",
+        "question": "What is <sks>'s hair color?",
+        "multiple_choice":{
+            "A": "blue",
+            "B": "black",
+            "C": "blonde"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "ref_img": "validation_recognition/Bruce_Lee/ref_img.png",
+        "question": "What is <sks>'s race?",
+        "multiple_choice":{
+            "A": "Asian",
+            "B": "Europian"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Bruce_Lee/ref_img.png",
+        "question": "What is <sks>'s hair color?",
+        "multiple_choice":{
+            "A": "blonde",
+            "B": "black"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "ref_img": "validation_recognition/Bruce_Lee/ref_img.png",
+        "question": "Is <sks> hair short or long?",
+        "multiple_choice": {
+            "A": "short",
+            "B": "long"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Caleb/ref_img.png",
+        "question": "What is <sks> skin color?",
+        "multiple_choice": {
+            "A": "White",
+            "B": "Black"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "ref_img": "validation_recognition/Caleb/ref_img.png",
+        "question": "What is the gender of <sks>?",
+        "multiple_choice": {
+            "A": "male",
+            "B": "female"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Caleb/ref_img.png",
+        "question": "What is <sks>'s hair color?",
+        "multiple_choice": {
+            "A": "black",
+            "B": "blonde"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Carole_King/ref_img.png",
+        "question": "What is <sks>'s hair color?",
+        "multiple_choice": {
+            "A": "black",
+            "B": "brown",
+            "C": "blonde"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "ref_img": "validation_recognition/Carole_King/ref_img.png",
+        "question": "Is <sks> young or old?",
+        "multiple_choice": {
+            "A": "young",
+            "B": "old"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "ref_img": "validation_recognition/Chau/ref_img.png",
+        "question": "What is <sks> race?",
+        "multiple_choice": {
+            "A": "Asian",
+            "B": "Europian"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Chau/ref_img.png",
+        "question": "What is <sks> hairstyle?",
+        "multiple_choice": {
+            "A": "long",
+            "B": "short"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "ref_img": "validation_recognition/Dan_Brown/ref_img.png",
+        "question": "What is <sks> skin color?",
+        "multiple_choice": {
+            "A": "white",
+            "B": "black"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Dan_Brown/ref_img.png",
+        "question": "What is <sks>'s hair color?",
+        "multiple_choice":{
+            "A": "blonde",
+            "B": "black",
+            "C": "brown"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "ref_img": "validation_recognition/Djokovic/ref_img.png",
+        "question": "What is <sks>'s hair color?",
+        "multiple_choice": {
+            "A": "blonde",
+            "B": "black"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "ref_img": "validation_recognition/Djokovic/ref_img.png",
+        "question": "Is <sks> teenager or middle-aged or old?",
+        "multiple_choice":{
+            "A": "teenager",
+            "B": "middle-aged",
+            "C": "old"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "ref_img": "validation_recognition/Doermann/ref_img.png",
+        "question": "Is <sks> young or old?",
+        "multiple_choice":{
+            "A": "young",
+            "B": "old"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "ref_img": "validation_recognition/Doermann/ref_img.png",
+        "question": "What is <sks>'s skin color?",
+        "multiple_choice":{
+            "A": "white",
+            "B": "black"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Drake/ref_img.png",
+        "question": "What is <sks>'s hair style?",
+        "multiple_choice": {
+            "A": "curly hairstyle",
+            "B": "straight hairstyle"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Drake/ref_img.png",
+        "question": "What is <sks>'s eye color?",
+        "multiple_choice": {
+            "A": "black",
+            "B": "blue"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Emma_Stone/ref_img.png",
+        "question":"What is <sks>'s hair color?",
+        "multiple_choice": {
+            "A": "black",
+            "B": "blonde"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "ref_img": "validation_recognition/Emma_Stone/ref_img.png",
+        "question": "What is <sks>'s eye color?",
+        "multiple_choice": {
+            "A": "black",
+            "B": "blue"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "ref_img": "validation_recognition/Gilmour/ref_img.png",
+        "question": "Is <sks> young or old?",
+        "multiple_choice":{
+            "A": "young",
+            "B": "old"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "ref_img": "validation_recognition/Gilmour/ref_img.png",
+        "question": "What is <sks> hair color?",
+        "multiple_choice":{
+            "A": "black",
+            "B": "blonde",
+            "C": "white"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "ref_img": "validation_recognition/Gilmour/ref_img.png",
+        "question": "What is <sks>'s beard color",
+        "multiple_choice": {
+            "A": "black",
+            "B": "white"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "ref_img": "validation_recognition/Harbour/ref_img.png",
+        "question": "What is <sks>'s skin color?",
+        "multiple_choice": {
+            "A": "white",
+            "B": "black"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Harbour/ref_img.png",
+        "question": "What is <sks>'s hair style?",
+        "multiple_choice": {
+            "A": "short",
+            "B": "long"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Hemsworth/ref_img.png",
+        "question": "What is <sks>'s eyes color?",
+        "multiple_choice": {
+            "A": "black",
+            "B": "blue"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "ref_img": "validation_recognition/Hemsworth/ref_img.png",
+        "question": "What is the range of <sks>'s age?",
+        "multiple_choice":{
+            "A": "teenager",
+            "B": "middle-aged",
+            "C": "old"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "ref_img": "validation_recognition/Ifeoma/ref_img.png",
+        "question": "What is <sks>'s skin color?",
+        "multiple_choice":{
+            "A": "black",
+            "B": "white"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Ifeoma/ref_img.png",
+        "question": "What is <sks>'s eyes color?",
+        "multiple_choice": {
+            "A": "brown",
+            "B": "blue"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Ifeoma/ref_img.png",
+        "question": "What is <sks> gender?",
+        "multiple_choice":{
+            "A": "male",
+            "B": "female"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "ref_img": "validation_recognition/Jeremy_Renner/ref_img.png",
+        "question": "What is <sks>'s skin color?",
+        "multiple_choice": {
+            "A": "white",
+            "B": "black"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Jeremy_Renner/ref_img.png",
+        "question": "What is <sks> range age?",
+        "multiple_choice":{
+            "A": "teenager",
+            "B": "middle-aged",
+            "C": "old"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "ref_img": "validation_recognition/Jeremy_Renner/ref_img.png",
+        "question": "What is <sks> gender?",
+        "multiple_choice":{
+            "A": "male",
+            "B": "female"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/JiWon/ref_img.png",
+        "question": "What is <sks> race?",
+        "multiple_choice": {
+            "A": "Asian",
+            "B": "Europian"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/KennyG/ref_img.png",
+        "question": "What is <sks>'s hairstyle?",
+        "multiple_choice":{
+            "A": "long",
+            "B": "short"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/KennyG/ref_img.png",
+        "question": "What is <sks>'s hair color?",
+        "multiple_choice": {
+            "A": "white",
+            "B": "black"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "ref_img": "validation_recognition/Lionel_Richie/ref_img.png",
+        "question": "What is <sks>'s hair style?",
+        "multiple_choice": {
+            "A": "short curly",
+            "B": "short straight",
+            "C": "long"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Lionel_Richie/ref_img.png",
+        "question": "Does <sks> have moustache?",
+        "multiple_choice": {
+            "A": "Yes",
+            "B": "No"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Matarazzo/ref_img.png",
+        "question": "What is <sks> age range?",
+        "multiple_choice":{
+            "A": "teenager",
+            "B": "middle-aged",
+            "C": "old"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Matarazzo/ref_img.png",
+        "question": "What is <sks>'s skin color?",
+        "multiple_choice": {
+            "A": "white",
+            "B": "black"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Matarazzo/ref_img.png",
+        "question": "What is <sks>'s hair color?",
+        "multiple_choice": {
+            "A": "white",
+            "B": "black"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "ref_img": "validation_recognition/Matarazzo/ref_img.png",
+        "question": "What is <sks>'s hairstyle?",
+        "multiple_choice": {
+            "A": "long",
+            "B": "short"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "ref_img": "validation_recognition/Michael/ref_img.png",
+        "question": "What is <sks>'s hairstyle?",
+        "multiple_choice": {
+            "A": "short curly",
+            "B": "short straight"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "ref_img": "validation_recognition/Morgan/ref_img.png",
+        "question": "What is <sks>'s hair color?",
+        "multiple_choice": {
+            "A": "black",
+            "B": "blonde",
+            "C": "white"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "ref_img": "validation_recognition/Morgan/ref_img.png",
+        "question": "What is <sks>'s skin tone?",
+        "multiple_choice": {
+            "A": "dark",
+            "B": "light"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Morgan/ref_img.png",
+        "question": "Is <sks> young or old?",
+        "multiple_choice":{
+            "A": "young",
+            "B": "old"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "ref_img": "validation_recognition/Mourinho/ref_img.png",
+        "question": "What is <sks>'s hair color?",
+        "multiple_choice": {
+            "A": "white",
+            "B": "black"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Mourinho/ref_img.png",
+        "question": "What is <sks>'s skin tone?",
+        "multiple_choice":{
+            "A": "white",
+            "B": "black"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Obama/ref_img.png",
+        "question": "What is <sks>'s skin tone?",
+        "multiple_choice":{
+            "A": "black",
+            "B": "white"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Obama/ref_img.png",
+        "question": "What is <sks>'s gender?",
+        "multiple_choice": {
+            "A": "male",
+            "B": "female"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "ref_img": "validation_recognition/Obama/ref_img.png",
+        "question": "What is <sks>'s hair color?",
+        "multiple_choice":{
+            "A": "black",
+            "B": "blonde"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Pep/ref_img.png",
+        "question": "What is <sks>'s hairstyle?",
+        "multiple_choice":{
+            "A": "short curly",
+            "B": "long",
+            "C": "bald"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "ref_img": "validation_recognition/Pep/ref_img.png",
+        "question": "What is the gender of <sks>?",
+        "multiple_choice":{
+            "A": "male",
+            "B": "female"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Pep/ref_img.png",
+        "question": "What is <sks>'s skin tone?",
+        "multiple_choice": {
+            "A": "black",
+            "B": "white"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "ref_img": "validation_recognition/Rihanna/ref_img.png",
+        "question": "What is <sks>'s skin tone?",
+        "multiple_choice": {
+            "A": "black",
+            "B": "white"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Rihanna/ref_img.png",
+        "question": "What is <sks>'s hair color?",
+        "multiple_choice": {
+            "A": "black",
+            "B": "blonde",
+            "C": "red"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Roger/ref_img.png",
+        "question": "What is <sks>'s hairstyle?",
+        "multiple_choice":{
+            "A": "long",
+            "B": "short"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "ref_img": "validation_recognition/Sadie_Sink/ref_img.png",
+        "question": "What is <sks>'s hair color?",
+        "multiple_choice":{
+            "A": "red",
+            "B": "black",
+            "C": "blonde"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Sadie_Sink/ref_img.png",
+        "question": "What is <sks>'s gender?",
+        "multiple_choice":{
+            "A": "male",
+            "B": "female"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "ref_img": "validation_recognition/Sam_Wilson/ref_img.png",
+        "question":"What is <sks>'s skin tone?",
+        "multiple_choice":{
+            "A": "black",
+            "B": "white"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "ref_img": "validation_recognition/Sam_Wilson/ref_img.png",
+        "question": "What is <sks>'s hair color?",
+        "multiple_choice":{
+            "A": "black",
+            "B": "blonde",
+            "C": "brown"
+        },
+        "correct_answer":"A"
+    },
+    {
+        "ref_img": "validation_recognition/SirAlex/ref_img.png",
+        "question": "Is <sks> a young or old person?",
+        "multiple_choice":{
+            "A": "teenager",
+            "B": "old"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "ref_img": "validation_recognition/SirAlex/ref_img.png",
+        "question": "What is <sks>'s hair color?",
+        "multiple_choice":{
+            "A": "white",
+            "B": "black"
+        },
+        "correct_answer": "A"
+    }
+]
